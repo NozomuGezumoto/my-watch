@@ -1,0 +1,642 @@
+{
+  "carrera": [
+    {
+      "slug": "origins",
+      "name": "オリジン（1960年代）",
+      "nameEn": "Origins (1960s)",
+      "startYear": 1963,
+      "endYear": 1970,
+      "summary": "カレラ・パナアメリカーナに由来するスポーツクロノの誕生。",
+      "keyFacts": [
+        "1964年 Carrera 名称で発売"
+      ],
+      "events": [
+        {
+          "year": 1964,
+          "label": "Carrera 名称で発売"
+        }
+      ]
+    },
+    {
+      "slug": "quartz-era",
+      "name": "クォーツ時代",
+      "nameEn": "Quartz era",
+      "startYear": 1970,
+      "endYear": 1985,
+      "summary": "スイス・クォーツショック期。機械式からクォーツへ移行し、カレラもクォーツモデルを展開。",
+      "keyFacts": [
+        "クォーツ移行",
+        "機械式縮小"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern-revival",
+      "name": "復活〜現代",
+      "nameEn": "Modern revival",
+      "startYear": 1985,
+      "endYear": null,
+      "summary": "クラシックデザインの復刻とインハウスムーブメント。",
+      "keyFacts": [
+        "Cal.1887",
+        "Heuer 02",
+        "スポーツクロノ復活"
+      ],
+      "events": []
+    }
+  ],
+  "monaco": [
+    {
+      "slug": "debut",
+      "name": "デビュー（1969）",
+      "nameEn": "Debut (1969)",
+      "startYear": 1969,
+      "endYear": 1975,
+      "summary": "角型ケースとシャープなクロノグラフ。",
+      "keyFacts": [
+        "世界初の自動巻きクロノグラフの一翼"
+      ],
+      "events": [
+        {
+          "year": 1969,
+          "label": "Monaco 発売"
+        }
+      ]
+    },
+    {
+      "slug": "quartz-period",
+      "name": "クォーツ期",
+      "nameEn": "Quartz period",
+      "startYear": 1975,
+      "endYear": 1990,
+      "summary": "クォーツモデルの展開。角型ケースは継続。",
+      "keyFacts": [
+        "クォーツ移行",
+        "角型ケース継続"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代のモナコ",
+      "nameEn": "Modern Monaco",
+      "startYear": 1990,
+      "endYear": null,
+      "summary": "レース・映画との結びつきを強めた現行ライン。",
+      "keyFacts": [
+        "ル・マン",
+        "スティーブ・マックイーン",
+        "角型デザイン継承"
+      ],
+      "events": []
+    }
+  ],
+  "autavia": [
+    {
+      "slug": "first-era",
+      "name": "初代オートビア",
+      "nameEn": "First Autavia",
+      "startYear": 1962,
+      "endYear": 1985,
+      "summary": "レーシング・航空向けクロノグラフ。",
+      "keyFacts": [
+        "名前付きクロノの先駆け"
+      ],
+      "events": [
+        {
+          "year": 1962,
+          "label": "Autavia 発売"
+        }
+      ]
+    },
+    {
+      "slug": "revival",
+      "name": "復刻〜現代",
+      "nameEn": "Revival to present",
+      "startYear": 2017,
+      "endYear": null,
+      "summary": "TAG Heuer による復刻と現行モデル。",
+      "keyFacts": [
+        "2017年復刻",
+        "Cal.5 自動巻き",
+        "レトロダイアル"
+      ],
+      "events": [
+        {
+          "year": 2017,
+          "label": "Autavia 復刻"
+        }
+      ]
+    }
+  ],
+  "speedmaster": [
+    {
+      "slug": "caliber-321",
+      "name": "321キャリバー時代",
+      "nameEn": "Caliber 321 era",
+      "startYear": 1957,
+      "endYear": 1968,
+      "summary": "初代。NASA有人宇宙飛行に採用。",
+      "keyFacts": [
+        "キャリバー321",
+        "NASA採用"
+      ],
+      "events": [
+        {
+          "year": 1957,
+          "label": "Speedmaster 発売"
+        },
+        {
+          "year": 1965,
+          "label": "NASA公式採用"
+        },
+        {
+          "year": 1969,
+          "label": "月面着陸"
+        }
+      ]
+    },
+    {
+      "slug": "861-1861",
+      "name": "861/1861時代",
+      "nameEn": "Caliber 861/1861",
+      "startYear": 1968,
+      "endYear": 2020,
+      "summary": "ムーンウォッチの定番ライン。月面着陸後もNASA採用継続。",
+      "keyFacts": [
+        "キャリバー861→1861",
+        "月面着陸後も採用",
+        "プロフェッショナル"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代（3861等）",
+      "nameEn": "Modern (3861 etc.)",
+      "startYear": 2020,
+      "endYear": null,
+      "summary": "マスタークロノメーター認定など現行仕様。",
+      "keyFacts": [
+        "Cal.3861",
+        "マスタークロノメーター",
+        "サファイアバック"
+      ],
+      "events": []
+    }
+  ],
+  "seamaster": [
+    {
+      "slug": "early",
+      "name": "初期シーマスター",
+      "nameEn": "Early Seamaster",
+      "startYear": 1948,
+      "endYear": 1960,
+      "summary": "日常用防水ラインナップ。",
+      "keyFacts": [
+        "1948年発売"
+      ],
+      "events": [
+        {
+          "year": 1948,
+          "label": "Seamaster 発売"
+        }
+      ]
+    },
+    {
+      "slug": "diver-line",
+      "name": "ダイバーライン確立",
+      "nameEn": "Diver line",
+      "startYear": 1960,
+      "endYear": 1990,
+      "summary": "300m等のダイバー仕様の拡充。プロフェッショナルライン確立。",
+      "keyFacts": [
+        "300m防水",
+        "ダイバー専用",
+        "一方向ベゼル"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代シーマスター",
+      "nameEn": "Modern Seamaster",
+      "startYear": 1990,
+      "endYear": null,
+      "summary": "ジェームズ・ボンド着用で人気。コアキシャルムーブメント。",
+      "keyFacts": [
+        "ジェームズ・ボンド",
+        "コアキシャル",
+        "300mダイバー"
+      ],
+      "events": []
+    }
+  ],
+  "constellation": [
+    {
+      "slug": "early",
+      "name": "初期コンステレーション",
+      "nameEn": "Early Constellation",
+      "startYear": 1952,
+      "endYear": 1970,
+      "summary": "高精度ドレスウォッチとして確立。",
+      "keyFacts": [
+        "1952年発売"
+      ],
+      "events": [
+        {
+          "year": 1952,
+          "label": "Constellation 発売"
+        }
+      ]
+    },
+    {
+      "slug": "quartz-manhattan",
+      "name": "クォーツ・マンハッタン",
+      "nameEn": "Quartz & Manhattan",
+      "startYear": 1970,
+      "endYear": 2000,
+      "summary": "クォーツとマンハッタンケースで人気。",
+      "keyFacts": [
+        "マンハッタンケース",
+        "クォーツ"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代コンステレーション",
+      "nameEn": "Modern Constellation",
+      "startYear": 2000,
+      "endYear": null,
+      "summary": "至臻天文台認定。36/41mm 等現行ライン。",
+      "keyFacts": [
+        "至臻天文台",
+        "36/41mm"
+      ],
+      "events": []
+    }
+  ],
+  "el-primero": [
+    {
+      "slug": "birth",
+      "name": "エル・プリメロ誕生",
+      "nameEn": "Birth of El Primero",
+      "startYear": 1969,
+      "endYear": 1975,
+      "summary": "世界初の自動巻きクロノグラフムーブメント。",
+      "keyFacts": [
+        "5Hz、36,000vph"
+      ],
+      "events": [
+        {
+          "year": 1969,
+          "label": "El Primero ムーブメント発表"
+        }
+      ]
+    },
+    {
+      "slug": "survival",
+      "name": "存続と復興",
+      "nameEn": "Survival and revival",
+      "startYear": 1975,
+      "endYear": 2000,
+      "summary": "クォーツ危機を乗り越え他社にも供給。ロレックス・デイトナ用4030の母胎に。",
+      "keyFacts": [
+        "ロレックス4030供給",
+        "復興"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代のエル・プリメロ",
+      "nameEn": "Modern El Primero",
+      "startYear": 2000,
+      "endYear": null,
+      "summary": "Chronomaster 等。36,000vph の価値が再評価。",
+      "keyFacts": [
+        "Chronomaster",
+        "36,000vph継承"
+      ],
+      "events": []
+    }
+  ],
+  "defy": [
+    {
+      "slug": "original",
+      "name": "初代デファイ",
+      "nameEn": "Original Defy",
+      "startYear": 1969,
+      "endYear": 1980,
+      "summary": "角型・耐磁などの実験的ライン。",
+      "keyFacts": [
+        "1969年発売"
+      ],
+      "events": [
+        {
+          "year": 1969,
+          "label": "Defy 発売"
+        }
+      ]
+    },
+    {
+      "slug": "revival-modern",
+      "name": "復刻〜現代",
+      "nameEn": "Revival to modern",
+      "startYear": 2017,
+      "endYear": null,
+      "summary": "2017年復刻。1/100秒計測の Defy 21、スケルトン、Defy Extreme など、ゼニスならではの高振動・前衛ライン。",
+      "keyFacts": [
+        "Defy 21（1/100秒クロノ・世界初級）",
+        "スケルトンダイアル",
+        "Defy Extreme（カーボン・チタン）",
+        "El Primero 派生の高振動"
+      ],
+      "events": [
+        { "year": 2017, "label": "Defy 復刻" },
+        { "year": 2019, "label": "Defy 21 1/100秒" }
+      ]
+    }
+  ],
+  "pilot": [
+    {
+      "slug": "contemporary",
+      "name": "現行パイロット",
+      "nameEn": "Contemporary Pilot",
+      "startYear": 2012,
+      "endYear": null,
+      "summary": "Zenith の航空系ライン。",
+      "keyFacts": [
+        "大径ケース・ビッグデイト等"
+      ],
+      "events": [
+        {
+          "year": 2012,
+          "label": "Pilot ライン展開"
+        }
+      ]
+    }
+  ],
+  "navitimer": [
+    {
+      "slug": "slide-rule",
+      "name": "スライドルール時代",
+      "nameEn": "Slide rule era",
+      "startYear": 1952,
+      "endYear": 1970,
+      "summary": "航空計算尺ベゼルでパイロットに採用。",
+      "keyFacts": [
+        "1952年 Navitimer 発売"
+      ],
+      "events": [
+        {
+          "year": 1952,
+          "label": "Navitimer 発売"
+        }
+      ]
+    },
+    {
+      "slug": "evolution",
+      "name": "進化期",
+      "nameEn": "Evolution",
+      "startYear": 1970,
+      "endYear": 2000,
+      "summary": "クォーツ・自動の両ライン。スライドルールは継続。",
+      "keyFacts": [
+        "クォーツ・自動",
+        "スライドルール継続"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代ナビタイマー",
+      "nameEn": "Modern Navitimer",
+      "startYear": 2000,
+      "endYear": null,
+      "summary": "B01等インハウスムーブ。",
+      "keyFacts": [
+        "B01キャリバー",
+        "インハウス"
+      ],
+      "events": []
+    }
+  ],
+  "chronomat": [
+    {
+      "slug": "origins",
+      "name": "オリジン",
+      "nameEn": "Origins",
+      "startYear": 1984,
+      "endYear": 2000,
+      "summary": "F1 との結びつきで復活。",
+      "keyFacts": [
+        "1984年 Chronomat 復活"
+      ],
+      "events": [
+        {
+          "year": 1984,
+          "label": "Chronomat 復活"
+        }
+      ]
+    },
+    {
+      "slug": "modern",
+      "name": "現代クロノマット",
+      "nameEn": "Modern Chronomat",
+      "startYear": 2000,
+      "endYear": null,
+      "summary": "B01 等現行ライン。",
+      "keyFacts": [
+        "B01",
+        "44mm",
+        "F1連携"
+      ],
+      "events": []
+    }
+  ],
+  "superocean": [
+    {
+      "slug": "early",
+      "name": "初期スーパーオーシャン",
+      "nameEn": "Early Superocean",
+      "startYear": 1957,
+      "endYear": 1980,
+      "summary": "ダイバー向け高防水ライン。",
+      "keyFacts": [
+        "1957年 Superocean 発売"
+      ],
+      "events": [
+        {
+          "year": 1957,
+          "label": "Superocean 発売"
+        }
+      ]
+    },
+    {
+      "slug": "modern",
+      "name": "現代スーパーオーシャン",
+      "nameEn": "Modern Superocean",
+      "startYear": 1980,
+      "endYear": null,
+      "summary": "多様な防水・サイズ。 Heritage 等。",
+      "keyFacts": [
+        "多様な防水",
+        "Heritage"
+      ],
+      "events": []
+    }
+  ],
+  "daytona": [
+    {
+      "slug": "manual-early",
+      "name": "初代・6239/6241",
+      "nameEn": "First / 6239-6241",
+      "startYear": 1963,
+      "endYear": 1970,
+      "summary": "コスモグラフ・デイトナの誕生。手巻きキャリバー722。",
+      "keyFacts": [
+        "1963年 Cosmograph Daytona",
+        "Ref.6239/6241"
+      ],
+      "events": [
+        {
+          "year": 1963,
+          "label": "Cosmograph Daytona"
+        }
+      ]
+    },
+    {
+      "slug": "manual-late",
+      "name": "6263/6265時代",
+      "nameEn": "6263/6265 era",
+      "startYear": 1970,
+      "endYear": 1988,
+      "summary": "パルスニー・ベゼル等のバリエーション。",
+      "keyFacts": [
+        "Ref.6263",
+        "Ref.6265"
+      ],
+      "events": []
+    },
+    {
+      "slug": "zenith-era",
+      "name": "ゼニスムーブ時代",
+      "nameEn": "Zenith movement era",
+      "startYear": 1988,
+      "endYear": 2000,
+      "summary": "エル・プリメロベースの自動巻き。Ref.16520。",
+      "keyFacts": [
+        "キャリバー4030",
+        "Ref.16520"
+      ],
+      "events": []
+    },
+    {
+      "slug": "in-house",
+      "name": "インハウス4130",
+      "nameEn": "In-house 4130",
+      "startYear": 2000,
+      "endYear": null,
+      "summary": "4130 キャリバーと現行ライン。116500LN 等。",
+      "keyFacts": [
+        "キャリバー4130",
+        "Ref.116500"
+      ],
+      "events": []
+    }
+  ],
+  "submariner": [
+    {
+      "slug": "first-sub",
+      "name": "初代サブマリーナ",
+      "nameEn": "First Submariner",
+      "startYear": 1953,
+      "endYear": 1960,
+      "summary": "100m〜200m 防水の確立。",
+      "keyFacts": [
+        "1953年 Submariner 発売"
+      ],
+      "events": [
+        {
+          "year": 1953,
+          "label": "Submariner 発売"
+        }
+      ]
+    },
+    {
+      "slug": "5512-5513",
+      "name": "5512/5513時代",
+      "nameEn": "5512/5513 era",
+      "startYear": 1960,
+      "endYear": 1989,
+      "summary": "クラシックダイバーの定番。クラウンガード・200m防水。",
+      "keyFacts": [
+        "クラウンガード",
+        "200m",
+        "Ref.5512/5513"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代サブマリーナ",
+      "nameEn": "Modern Submariner",
+      "startYear": 1989,
+      "endYear": null,
+      "summary": "セラミックベゼル・3235等現行。",
+      "keyFacts": [
+        "セラミックベゼル",
+        "Cal.3235"
+      ],
+      "events": []
+    }
+  ],
+  "datejust": [
+    {
+      "slug": "early",
+      "name": "初期デイトジャスト",
+      "nameEn": "Early Datejust",
+      "startYear": 1945,
+      "endYear": 1970,
+      "summary": "日付表示付きオイスターの代表。",
+      "keyFacts": [
+        "1945年 Datejust 発売"
+      ],
+      "events": [
+        {
+          "year": 1945,
+          "label": "Datejust 発売"
+        }
+      ]
+    },
+    {
+      "slug": "evolution",
+      "name": "進化期",
+      "nameEn": "Evolution",
+      "startYear": 1970,
+      "endYear": 2000,
+      "summary": "サイズ・素材のバリエーション。日付表示の定番化。",
+      "keyFacts": [
+        "サイズ・素材",
+        "日付表示定番"
+      ],
+      "events": []
+    },
+    {
+      "slug": "modern",
+      "name": "現代デイトジャスト",
+      "nameEn": "Modern Datejust",
+      "startYear": 2000,
+      "endYear": null,
+      "summary": "36/41mm 等現行ライン。フルートベゼル。",
+      "keyFacts": [
+        "41mm",
+        "36mm",
+        "フルートベゼル"
+      ],
+      "events": []
+    }
+  ]
+}

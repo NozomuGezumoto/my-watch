@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "description": "初期 seed データの構造例。1ブランド・1コレクション・2 Era・2 Variant・ユーザー所有1件。",
+  "version": "1.0",
+  "brands": [
+    {
+      "id": "brand-omega",
+      "slug": "omega",
+      "name": "Omega",
+      "nameEn": "Omega",
+      "foundedYear": 1848,
+      "country": "CH",
+      "descriptionSummary": "スイス・ビールに本社を置く高級時計メーカー。宇宙飛行や海洋計時で多数の公式採用実績がある。",
+      "wikidataQid": "Q659224",
+      "wikipediaSlug": "Omega_SA",
+      "sortOrder": 2
+    }
+  ],
+  "collections": [
+    {
+      "id": "coll-speedmaster",
+      "brandId": "brand-omega",
+      "slug": "speedmaster",
+      "name": "Speedmaster",
+      "nameEn": "Speedmaster",
+      "type": "chronograph",
+      "introducedYear": 1957,
+      "discontinuedYear": null,
+      "descriptionSummary": "Omegaを代表するクロノグラフ。NASAの有人宇宙飛行および月面着陸で公式採用された。",
+      "wikidataQid": "Q1414495",
+      "wikipediaSlug": "Omega_Speedmaster",
+      "commonsCategory": "Omega Speedmaster",
+      "sortOrder": 1
+    }
+  ],
+  "eras": [
+    {
+      "id": "era-speedmaster-321",
+      "collectionId": "coll-speedmaster",
+      "slug": "speedmaster-321-era",
+      "name": "321キャリバー時代",
+      "nameEn": "Caliber 321 era",
+      "startYear": 1957,
+      "endYear": 1968,
+      "summary": "初代Speedmaster。レマニア231ベースのキャリバー321を搭載。NASAのテストを通過し有人宇宙飛行に採用された。",
+      "keyFacts": [
+        "キャリバー321（レマニア231ベース）",
+        "NASA有人宇宙飛行公式採用",
+        "アポロ11号で月面着陸に同行"
+      ],
+      "events": [
+        { "year": 1957, "label": "Speedmaster 初出" },
+        { "year": 1965, "label": "NASA公式採用" },
+        { "year": 1969, "label": "アポロ11号月面着陸" }
+      ],
+      "sortOrder": 1
+    },
+    {
+      "id": "era-speedmaster-861",
+      "collectionId": "coll-speedmaster",
+      "slug": "speedmaster-861-era",
+      "name": "861/1861時代",
+      "nameEn": "Caliber 861/1861 era",
+      "startYear": 1968,
+      "endYear": null,
+      "summary": "キャリバー861へ移行。後に1861等の派生が続く。ムーンウォッチの定番として現在も継続生産。",
+      "keyFacts": [
+        "キャリバー861（のち1861等）",
+        "ムーンウォッチの定番ライン",
+        "ステンレス・サファイアバック等のバリエーション"
+      ],
+      "events": [
+        { "year": 1968, "label": "861採用" }
+      ],
+      "sortOrder": 2
+    }
+  ],
+  "variants": [
+    {
+      "id": "var-speedmaster-2915",
+      "eraId": "era-speedmaster-321",
+      "slug": "speedmaster-2915",
+      "name": "Speedmaster CK2915",
+      "nameEn": "Speedmaster CK2915",
+      "movementType": "manual",
+      "caliber": "321",
+      "caseSizeMm": 39,
+      "caseMaterial": "ステンレス",
+      "waterResistanceM": null,
+      "crystal": "ヘスカライト",
+      "bezel": "メタル tachymeter",
+      "braceletStrap": ["レザー", "メタルブレス"],
+      "dialColor": "黒",
+      "keyFacts": ["ブロードアロー針", "初代モデル"],
+      "wikidataQid": null,
+      "imageSource": null,
+      "sortOrder": 1
+    },
+    {
+      "id": "var-speedmaster-1861-moonwatch",
+      "eraId": "era-speedmaster-861",
+      "slug": "speedmaster-moonwatch-1861",
+      "name": "Speedmaster Professional Moonwatch (1861)",
+      "nameEn": "Speedmaster Professional Moonwatch 1861",
+      "movementType": "manual",
+      "caliber": "1861",
+      "caseSizeMm": 42,
+      "caseMaterial": "ステンレス",
+      "waterResistanceM": 50,
+      "crystal": "ヘスカライト",
+      "bezel": "ステンレス tachymeter",
+      "braceletStrap": ["ステンレス", "レザー"],
+      "dialColor": "黒",
+      "keyFacts": ["現行ムーンウォッチ", "サファイアバック版も存在"],
+      "wikidataQid": null,
+      "imageSource": null,
+      "sortOrder": 1
+    }
+  ],
+  "userOwnedWatches": [
+    {
+      "id": "user-watch-1",
+      "userId": "user-local-demo",
+      "collectionId": "coll-speedmaster",
+      "eraId": "era-speedmaster-861",
+      "variantId": "var-speedmaster-1861-moonwatch",
+      "customName": "普段用ムーンウォッチ",
+      "acquiredYear": 2020,
+      "notes": "",
+      "createdAt": "2025-02-07T00:00:00.000Z",
+      "updatedAt": "2025-02-07T00:00:00.000Z"
+    }
+  ]
+}

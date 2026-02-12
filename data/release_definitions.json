@@ -1,0 +1,5358 @@
+{
+  "description": "Milestone ごとの Release（仕様・Refの進化点単位）。milestoneId をキーに、その下の Release を定義。年代スライダーは 1 Release = 1 スライド。",
+  "ms-daytona-1": [
+    {
+      "yearFrom": 1963,
+      "yearTo": 1963,
+      "label": "1963 初期ロット",
+      "whyItMatters": "コスモグラフ・デイトナの初年度。Ref.6239 を中心に供給開始。",
+      "delta": {
+        "added": [
+          "Ref.6239 デビュー",
+          "キャリバー722"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1964,
+      "yearTo": 1964,
+      "label": "1964 小変更",
+      "whyItMatters": "ダイアル・ベゼルの細部変更。6241 等のバリエーション展開。",
+      "delta": {
+        "added": [
+          "Ref.6241"
+        ],
+        "changed": [
+          "ダイアル刻印の微修正"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2
+    },
+    {
+      "yearFrom": 1965,
+      "yearTo": 1965,
+      "label": "1965 ダイヤル差分",
+      "whyItMatters": "ダイヤル仕様の違いで区別されるロット。収集家が区別するポイント。",
+      "delta": {
+        "added": [],
+        "changed": [
+          "ダイヤル配色・サブダイヤル形状"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3
+    },
+    {
+      "yearFrom": 1969,
+      "yearTo": 1969,
+      "label": "1969 生産末期",
+      "whyItMatters": "手巻き6239/6241の最終年。翌年以降は6263/6265へ移行。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": [
+          "一部仕様の終了"
+        ]
+      },
+      "sortOrder": 4
+    }
+  ],
+  "ms-daytona-2": [
+    {
+      "yearFrom": 1966,
+      "yearTo": 1968,
+      "label": "1966–1968 6239/6241 後期",
+      "whyItMatters": "手巻き後期ロット。ダイヤル・ベゼルの細分化。",
+      "delta": {
+        "added": [],
+        "changed": [
+          "刻印・ベゼル仕様"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1969,
+      "yearTo": 1970,
+      "label": "1969–1970 移行期",
+      "whyItMatters": "6263/6265 登場前の最終ロット。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-daytona-3": [
+    {
+      "yearFrom": 1970,
+      "yearTo": 1973,
+      "label": "1970–1973 6263/6265 前期",
+      "whyItMatters": "パルスニー・ベゼル採用。Ref.6263/6265 定着。",
+      "delta": {
+        "added": [
+          "Ref.6263",
+          "Ref.6265"
+        ],
+        "changed": [
+          "パルスニーベゼル"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1974,
+      "yearTo": 1976,
+      "label": "1974–1976 パルスニー拡充",
+      "whyItMatters": "ベゼル・ダイヤルバリエーションの拡大。",
+      "delta": {
+        "added": [],
+        "changed": [
+          "ベゼル材質・刻印"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2
+    },
+    {
+      "yearFrom": 1977,
+      "yearTo": 1978,
+      "label": "1977–1978 手巻き末期",
+      "whyItMatters": "ゼニス自動巻き移行前の最終期。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 3
+    }
+  ],
+  "ms-daytona-4": [
+    {
+      "yearFrom": 1979,
+      "yearTo": 1983,
+      "label": "1979–1983 6263/6265 後期",
+      "whyItMatters": "手巻きデイトナの後期ロット。",
+      "delta": {
+        "added": [],
+        "changed": [
+          "刻印・パーツ"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1984,
+      "yearTo": 1988,
+      "label": "1984–1988 生産終了前",
+      "whyItMatters": "Ref.16520 登場直前。手巻き最終期。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-daytona-5": [
+    {
+      "yearFrom": 1988,
+      "yearTo": 1990,
+      "label": "1988–1990 Ref.16520 デビュー",
+      "whyItMatters": "ゼニス・エルプリメロベースの自動巻きデイトナ登場。",
+      "delta": {
+        "added": [
+          "Ref.16520",
+          "キャリバー4030"
+        ],
+        "changed": [
+          "自動巻き化"
+        ],
+        "removed": [
+          "手巻き"
+        ]
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1991,
+      "yearTo": 1993,
+      "label": "1991–1993 ゼニス定着",
+      "whyItMatters": "16520 ラインの定着とバリエーション。",
+      "delta": {
+        "added": [],
+        "changed": [
+          "ダイヤル・ベゼル"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-daytona-6": [
+    {
+      "yearFrom": 1994,
+      "yearTo": 1997,
+      "label": "1994–1997 16520 中期",
+      "whyItMatters": "ゼニスムーブ時代の中盤。",
+      "delta": {
+        "added": [],
+        "changed": [
+          "刻印・仕様"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1998,
+      "yearTo": 2000,
+      "label": "1998–2000 インハウス移行前",
+      "whyItMatters": "Cal.4130 登場直前の最終ゼニス期。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-daytona-7": [
+    {
+      "yearFrom": 2000,
+      "yearTo": 2003,
+      "label": "2000–2003 Cal.4130 初期",
+      "whyItMatters": "インハウス Cal.4130 デビュー。Ref.116520。",
+      "delta": {
+        "added": [
+          "Cal.4130",
+          "Ref.116520"
+        ],
+        "changed": [
+          "インハウス化"
+        ],
+        "removed": [
+          "ゼニス"
+        ]
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 2004,
+      "yearTo": 2008,
+      "label": "2004–2008 Ref.116520 拡充",
+      "whyItMatters": "ステンレス・貴金属ラインの拡大。",
+      "delta": {
+        "added": [],
+        "changed": [
+          "素材・ダイヤル"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2
+    },
+    {
+      "yearFrom": 2009,
+      "yearTo": 2012,
+      "label": "2009–2012 セラミック前夜",
+      "whyItMatters": "セラクロムベゼル登場前の116520時代。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 3
+    }
+  ],
+  "ms-daytona-8": [
+    {
+      "yearFrom": 2013,
+      "yearTo": 2015,
+      "label": "2013–2015 初期 Cal.4130",
+      "whyItMatters": "現行インハウス期の立ち上がり。116520 継続。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 2016,
+      "yearTo": 2019,
+      "label": "2016–2019 セラクロム拡充",
+      "whyItMatters": "Ref.116500LN セラミックベゼル・人気爆発。",
+      "delta": {
+        "added": [
+          "Ref.116500LN",
+          "セラミックベゼル"
+        ],
+        "changed": [
+          "ベゼル材質"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2
+    },
+    {
+      "yearFrom": 2020,
+      "yearTo": 2022,
+      "label": "2020–2022 Oysterflex追加",
+      "whyItMatters": "貴金属に Oysterflex オプション拡大。116500LN 継続。",
+      "delta": {
+        "added": [
+          "Oysterflex オプション"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 3
+    },
+    {
+      "yearFrom": 2023,
+      "yearTo": null,
+      "label": "2023– 現行 Cal.4131 Ref.126xxx",
+      "whyItMatters": "Cal.4131 と Ref.126500LN 等の現行ライン。",
+      "delta": {
+        "added": [
+          "Cal.4131",
+          "Ref.126500LN",
+          "Ref.126505 等"
+        ],
+        "changed": [
+          "ムーブ・Ref 体系"
+        ],
+        "removed": []
+      },
+      "sortOrder": 4
+    }
+  ],
+  "ms-submariner-1": [
+    {
+      "yearFrom": 1953,
+      "yearTo": 1954,
+      "label": "1953–1954 初代発売",
+      "whyItMatters": "ロレックス初の100m〜200m 防水ダイバー。回転ベゼルとオイスターケースでダイバーウォッチの基準に。",
+      "delta": {
+        "added": [
+          "Submariner 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "回転ベゼルとオイスターのダイバー確立。"
+    },
+    {
+      "yearFrom": 1955,
+      "yearTo": 1960,
+      "label": "1955–1960 200m 確立",
+      "whyItMatters": "ロレックス初の100m〜200m 防水ダイバー。回転ベゼルとオイスターケースでダイバーウォッチの基準に。",
+      "delta": {
+        "added": [
+          "Submariner 発売",
+          "100m〜200m 防水",
+          "回転ベゼル"
+        ],
+        "changed": [
+          "ケース・クラウン"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "回転ベゼルとオイスターのダイバー確立。"
+    }
+  ],
+  "ms-submariner-2": [
+    {
+      "yearFrom": 1955,
+      "yearTo": 1958,
+      "label": "1955–1958 初期 Ref 展開",
+      "whyItMatters": "Submariner 発売。",
+      "delta": {
+        "added": [
+          "Submariner 発売",
+          "100m〜200m 防水",
+          "回転ベゼル"
+        ],
+        "changed": [
+          "Ref 体系"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "100m〜200m 防水。"
+    },
+    {
+      "yearFrom": 1959,
+      "yearTo": 1960,
+      "label": "1959–1960 5512 前夜",
+      "whyItMatters": "Submariner 発売。",
+      "delta": {
+        "added": [
+          "Submariner 発売",
+          "100m〜200m 防水",
+          "回転ベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "100m〜200m 防水。"
+    }
+  ],
+  "ms-submariner-3": [
+    {
+      "yearFrom": 1957,
+      "yearTo": 1960,
+      "label": "1957–1960 初代後期",
+      "whyItMatters": "100m〜200m 防水。",
+      "delta": {
+        "added": [
+          "Submariner 発売",
+          "100m〜200m 防水",
+          "回転ベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Submariner 発売。"
+    }
+  ],
+  "ms-submariner-4": [
+    {
+      "yearFrom": 1960,
+      "yearTo": 1965,
+      "label": "1960–1965 5512/5513 前期",
+      "whyItMatters": "Ref.5512／5513 でクラシックサブの定番に。クラウンガード・200m 防水・日付なし/ありのバリエーション。",
+      "delta": {
+        "added": [
+          "クラウンガード",
+          "200m 防水",
+          "Ref.5512／5513"
+        ],
+        "changed": [
+          "クラウンガード"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "クラウンガードのクラシック時代。"
+    },
+    {
+      "yearFrom": 1966,
+      "yearTo": 1968,
+      "label": "1966–1968 刻印・仕様変化",
+      "whyItMatters": "Ref.5512／5513 でクラシックサブの定番に。クラウンガード・200m 防水・日付なし/ありのバリエーション。",
+      "delta": {
+        "added": [
+          "クラウンガード",
+          "200m 防水",
+          "Ref.5512／5513"
+        ],
+        "changed": [
+          "ダイヤル刻印"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "クラウンガードのクラシック時代。"
+    }
+  ],
+  "ms-submariner-5": [
+    {
+      "yearFrom": 1969,
+      "yearTo": 1974,
+      "label": "1969–1974 5512/5513 中期",
+      "whyItMatters": "クラウンガード。",
+      "delta": {
+        "added": [
+          "クラウンガード",
+          "200m 防水",
+          "Ref.5512／5513"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "200m 防水。"
+    },
+    {
+      "yearFrom": 1975,
+      "yearTo": 1977,
+      "label": "1975–1977 後期ロット",
+      "whyItMatters": "クラウンガード。",
+      "delta": {
+        "added": [
+          "クラウンガード",
+          "200m 防水",
+          "Ref.5512／5513"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "200m 防水。"
+    }
+  ],
+  "ms-submariner-6": [
+    {
+      "yearFrom": 1978,
+      "yearTo": 1983,
+      "label": "1978–1983 5513 後期",
+      "whyItMatters": "200m 防水。",
+      "delta": {
+        "added": [
+          "クラウンガード",
+          "200m 防水",
+          "Ref.5512／5513"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "クラウンガード。"
+    },
+    {
+      "yearFrom": 1984,
+      "yearTo": 1989,
+      "label": "1984–1989 16800 等",
+      "whyItMatters": "200m 防水。",
+      "delta": {
+        "added": [
+          "クラウンガード",
+          "200m 防水",
+          "Ref.5512／5513"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "クラウンガード。"
+    }
+  ],
+  "ms-submariner-7": [
+    {
+      "yearFrom": 1989,
+      "yearTo": 1995,
+      "label": "1989–1995 3135 初期",
+      "whyItMatters": "セラミック（セラクロム）ベゼルと Cal.3235。16610→116610→126610 等、現行サブの中心ライン。",
+      "delta": {
+        "added": [
+          "セラミックベゼル（セラクロム）",
+          "Cal.3235",
+          "41mm 等現行"
+        ],
+        "changed": [
+          "ムーブ・ガラス"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "セラミックベゼルと現行キャリバー。"
+    },
+    {
+      "yearFrom": 1996,
+      "yearTo": 2000,
+      "label": "1996–2000 16610 定着",
+      "whyItMatters": "セラミック（セラクロム）ベゼルと Cal.3235。16610→116610→126610 等、現行サブの中心ライン。",
+      "delta": {
+        "added": [
+          "セラミックベゼル（セラクロム）",
+          "Cal.3235",
+          "41mm 等現行"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "セラミックベゼルと現行キャリバー。"
+    }
+  ],
+  "ms-submariner-8": [
+    {
+      "yearFrom": 2001,
+      "yearTo": 2007,
+      "label": "2001–2007 16610 後期",
+      "whyItMatters": "セラミックベゼル（セラクロム）。",
+      "delta": {
+        "added": [
+          "セラミックベゼル（セラクロム）",
+          "Cal.3235",
+          "41mm 等現行"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Cal.3235。"
+    },
+    {
+      "yearFrom": 2008,
+      "yearTo": 2012,
+      "label": "2008–2012 116610 セラクロム",
+      "whyItMatters": "セラミックベゼル（セラクロム）。",
+      "delta": {
+        "added": [
+          "セラミックベゼル本格化"
+        ],
+        "changed": [
+          "41mm ケース"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Cal.3235。"
+    }
+  ],
+  "ms-submariner-9": [
+    {
+      "yearFrom": 2013,
+      "yearTo": 2017,
+      "label": "2013–2017 116610 継続",
+      "whyItMatters": "Cal.3235。",
+      "delta": {
+        "added": [
+          "セラミックベゼル（セラクロム）",
+          "Cal.3235",
+          "41mm 等現行"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "セラミックベゼル（セラクロム）。"
+    },
+    {
+      "yearFrom": 2018,
+      "yearTo": 2020,
+      "label": "2018–2020 3235 移行",
+      "whyItMatters": "Cal.3235。",
+      "delta": {
+        "added": [
+          "セラミックベゼル（セラクロム）",
+          "Cal.3235",
+          "41mm 等現行"
+        ],
+        "changed": [
+          "ムーブメント"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "セラミックベゼル（セラクロム）。"
+    },
+    {
+      "yearFrom": 2021,
+      "yearTo": null,
+      "label": "2021– 現行 126610 等",
+      "whyItMatters": "41mm 等現行。",
+      "delta": {
+        "added": [
+          "セラミックベゼル（セラクロム）",
+          "Cal.3235",
+          "41mm 等現行"
+        ],
+        "changed": [
+          "Ref 体系"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "セラミックベゼル本格化。"
+    }
+  ],
+  "ms-speedmaster-1": [
+    {
+      "yearFrom": 1957,
+      "yearTo": 1959,
+      "label": "1957–1959 初代 321",
+      "whyItMatters": "初代スピードマスター。キャリバー321。NASA有人宇宙飛行用に選定され、月面着陸に同行。",
+      "delta": {
+        "added": [
+          "Speedmaster 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "NASA採用から月面着陸まで。"
+    },
+    {
+      "yearFrom": 1960,
+      "yearTo": 1962,
+      "label": "1960–1962 前期",
+      "whyItMatters": "初代スピードマスター。キャリバー321。NASA有人宇宙飛行用に選定され、月面着陸に同行。",
+      "delta": {
+        "added": [
+          "キャリバー321（レマニアベース）",
+          "NASA公式採用（1965）",
+          "月面着陸（1969）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "NASA採用から月面着陸まで。"
+    }
+  ],
+  "ms-speedmaster-2": [
+    {
+      "yearFrom": 1960,
+      "yearTo": 1963,
+      "label": "1960–1963 バリエーション",
+      "whyItMatters": "キャリバー321（レマニアベース）。",
+      "delta": {
+        "added": [
+          "キャリバー321（レマニアベース）",
+          "NASA公式採用（1965）",
+          "月面着陸（1969）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "NASA公式採用（1965）。"
+    },
+    {
+      "yearFrom": 1964,
+      "yearTo": 1965,
+      "label": "1964–1965 NASA 採用前",
+      "whyItMatters": "キャリバー321（レマニアベース）。",
+      "delta": {
+        "added": [
+          "NASA公式採用"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "NASA公式採用（1965）。"
+    }
+  ],
+  "ms-speedmaster-3": [
+    {
+      "yearFrom": 1963,
+      "yearTo": 1965,
+      "label": "1963–1965 NASA 公式採用",
+      "whyItMatters": "NASA公式採用（1965）。",
+      "delta": {
+        "added": [
+          "NASA公式採用"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "キャリバー321（レマニアベース）。"
+    },
+    {
+      "yearFrom": 1966,
+      "yearTo": 1968,
+      "label": "1966–1968 月面着陸前",
+      "whyItMatters": "NASA公式採用（1965）。",
+      "delta": {
+        "added": [
+          "キャリバー321（レマニアベース）",
+          "NASA公式採用（1965）",
+          "月面着陸（1969）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "キャリバー321（レマニアベース）。"
+    }
+  ],
+  "ms-speedmaster-4": [
+    {
+      "yearFrom": 1968,
+      "yearTo": 1975,
+      "label": "1968–1975 861 移行",
+      "whyItMatters": "キャリバー861→1861へ。ムーンウォッチの定番として月面着陸後もNASA採用が続く。",
+      "delta": {
+        "added": [
+          "Cal.861 採用"
+        ],
+        "changed": [
+          "ムーブメント"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ムーンウォッチの定番キャリバー時代。"
+    },
+    {
+      "yearFrom": 1976,
+      "yearTo": 1984,
+      "label": "1976–1984 861/1861 定着",
+      "whyItMatters": "キャリバー861→1861へ。ムーンウォッチの定番として月面着陸後もNASA採用が続く。",
+      "delta": {
+        "added": [
+          "キャリバー861→1861",
+          "月面着陸後もNASA採用継続",
+          "プロフェッショナル（42mm）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ムーンウォッチの定番キャリバー時代。"
+    }
+  ],
+  "ms-speedmaster-5": [
+    {
+      "yearFrom": 1985,
+      "yearTo": 1993,
+      "label": "1985–1993 1861 時代",
+      "whyItMatters": "キャリバー861→1861。",
+      "delta": {
+        "added": [
+          "キャリバー861→1861",
+          "月面着陸後もNASA採用継続",
+          "プロフェッショナル（42mm）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "月面着陸後もNASA採用継続。"
+    },
+    {
+      "yearFrom": 1994,
+      "yearTo": 2001,
+      "label": "1994–2001 バリエーション拡大",
+      "whyItMatters": "キャリバー861→1861。",
+      "delta": {
+        "added": [
+          "キャリバー861→1861",
+          "月面着陸後もNASA採用継続",
+          "プロフェッショナル（42mm）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "月面着陸後もNASA採用継続。"
+    }
+  ],
+  "ms-speedmaster-6": [
+    {
+      "yearFrom": 2002,
+      "yearTo": 2010,
+      "label": "2002–2010 1861 後期",
+      "whyItMatters": "月面着陸後もNASA採用継続。",
+      "delta": {
+        "added": [
+          "キャリバー861→1861",
+          "月面着陸後もNASA採用継続",
+          "プロフェッショナル（42mm）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "キャリバー861→1861。"
+    },
+    {
+      "yearFrom": 2011,
+      "yearTo": 2020,
+      "label": "2011–2020 3861 前夜",
+      "whyItMatters": "月面着陸後もNASA採用継続。",
+      "delta": {
+        "added": [
+          "キャリバー861→1861",
+          "月面着陸後もNASA採用継続",
+          "プロフェッショナル（42mm）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "キャリバー861→1861。"
+    }
+  ],
+  "ms-speedmaster-7": [
+    {
+      "yearFrom": 2020,
+      "yearTo": 2021,
+      "label": "2020–2021 3861 デビュー",
+      "whyItMatters": "Cal.3861 とマスタークロノメーター認定。サファイアバック・メタルブレスで現行ムーンウォッチの中心。",
+      "delta": {
+        "added": [
+          "3861 本格展開"
+        ],
+        "changed": [
+          "ムーブ・ガラス"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "マスタークロノメーター認定の現行仕様。"
+    },
+    {
+      "yearFrom": 2022,
+      "yearTo": 2022,
+      "label": "2022 マスタークロノメーター",
+      "whyItMatters": "Cal.3861 とマスタークロノメーター認定。サファイアバック・メタルブレスで現行ムーンウォッチの中心。",
+      "delta": {
+        "added": [
+          "Cal.3861（コーアクシャル）",
+          "マスタークロノメーター認定",
+          "サファイアバック・メタルブレス"
+        ],
+        "changed": [
+          "認定"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "マスタークロノメーター認定の現行仕様。"
+    }
+  ],
+  "ms-speedmaster-8": [
+    {
+      "yearFrom": 2022,
+      "yearTo": 2023,
+      "label": "2022–2023 3861 定着",
+      "whyItMatters": "Cal.3861（コーアクシャル）。",
+      "delta": {
+        "added": [
+          "Cal.3861（コーアクシャル）",
+          "マスタークロノメーター認定",
+          "サファイアバック・メタルブレス"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "マスタークロノメーター認定。"
+    }
+  ],
+  "ms-speedmaster-9": [
+    {
+      "yearFrom": 2024,
+      "yearTo": 2025,
+      "label": "2024–2025 現行ライン",
+      "whyItMatters": "Cal.3861（コーアクシャル）。",
+      "delta": {
+        "added": [
+          "Cal.3861（コーアクシャル）",
+          "マスタークロノメーター認定",
+          "サファイアバック・メタルブレス"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "マスタークロノメーター認定。"
+    },
+    {
+      "yearFrom": 2026,
+      "yearTo": null,
+      "label": "2026– 現行継続",
+      "whyItMatters": "マスタークロノメーター認定。",
+      "delta": {
+        "added": [
+          "Cal.3861（コーアクシャル）",
+          "マスタークロノメーター認定",
+          "サファイアバック・メタルブレス"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Cal.3861（コーアクシャル）。"
+    }
+  ],
+  "ms-carrera-1": [
+    {
+      "yearFrom": 1963,
+      "yearTo": 1964,
+      "label": "1963–1964 オリジン（1960年代）",
+      "whyItMatters": "パナアメリカーナ・カレラに由来。ヘウエル初の名前付きクロノグラフとしてスポーツクロノの礎を築く。",
+      "delta": {
+        "added": [
+          "Heuer カレラ構想",
+          "Carrera 名称で発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "レーシング由来の名前付きクロノグラフ。"
+    }
+  ],
+  "ms-carrera-2": [
+    {
+      "yearFrom": 1965,
+      "yearTo": 1966,
+      "label": "1965–1966 オリジン（1960年代）",
+      "whyItMatters": "パナアメリカーナ・カレラに由来。ヘウエル初の名前付きクロノグラフとしてスポーツクロノの礎を築く。",
+      "delta": {
+        "added": [
+          "Carrera 名称で発売",
+          "手巻き・自動巻きクロノ",
+          "レーシング由来のネーミング"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "レーシング由来の名前付きクロノグラフ。"
+    }
+  ],
+  "ms-carrera-3": [
+    {
+      "yearFrom": 1967,
+      "yearTo": 1967,
+      "label": "1967 オリジン（1960年代）",
+      "whyItMatters": "Carrera 名称で発売。",
+      "delta": {
+        "added": [
+          "Carrera 名称で発売",
+          "手巻き・自動巻きクロノ",
+          "レーシング由来のネーミング"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "手巻き・自動巻きクロノ。"
+    },
+    {
+      "yearFrom": 1968,
+      "yearTo": 1970,
+      "label": "1968–1970 オリジン（1960年代）",
+      "whyItMatters": "Carrera 名称で発売。",
+      "delta": {
+        "added": [
+          "Carrera 名称で発売",
+          "手巻き・自動巻きクロノ",
+          "レーシング由来のネーミング"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "手巻き・自動巻きクロノ。"
+    }
+  ],
+  "ms-carrera-4": [
+    {
+      "yearFrom": 1970,
+      "yearTo": 1971,
+      "label": "1970–1971 クォーツ時代",
+      "whyItMatters": "クォーツショック期。機械式は縮小し、カレラもクォーツ・デジタルモデルを展開。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "機械式縮小",
+          "カレラ名の継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "クォーツ・デジタルへ移行した時期。"
+    },
+    {
+      "yearFrom": 1972,
+      "yearTo": 1974,
+      "label": "1972–1974 クォーツ時代",
+      "whyItMatters": "クォーツショック期。機械式は縮小し、カレラもクォーツ・デジタルモデルを展開。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "機械式縮小",
+          "カレラ名の継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "クォーツ・デジタルへ移行した時期。"
+    }
+  ],
+  "ms-carrera-5": [
+    {
+      "yearFrom": 1975,
+      "yearTo": 1976,
+      "label": "1975–1976 クォーツ時代",
+      "whyItMatters": "クォーツ移行。",
+      "delta": {
+        "added": [
+          "クォーツ・カレラ展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "機械式縮小。"
+    },
+    {
+      "yearFrom": 1977,
+      "yearTo": 1979,
+      "label": "1977–1979 クォーツ時代",
+      "whyItMatters": "クォーツ移行。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "機械式縮小",
+          "カレラ名の継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "機械式縮小。"
+    }
+  ],
+  "ms-carrera-6": [
+    {
+      "yearFrom": 1980,
+      "yearTo": 1981,
+      "label": "1980–1981 クォーツ時代",
+      "whyItMatters": "機械式縮小。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "機械式縮小",
+          "カレラ名の継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "クォーツ移行。"
+    },
+    {
+      "yearFrom": 1982,
+      "yearTo": 1985,
+      "label": "1982–1985 クォーツ時代",
+      "whyItMatters": "機械式縮小。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "機械式縮小",
+          "カレラ名の継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "クォーツ移行。"
+    }
+  ],
+  "ms-carrera-7": [
+    {
+      "yearFrom": 1985,
+      "yearTo": 1988,
+      "label": "1985–1988 復活〜現代",
+      "whyItMatters": "タグ・ホイヤー期にクラシックデザインを復刻。Cal.1887、Heuer 02 などインハウスムーブでスポーツクロノの顔に。",
+      "delta": {
+        "added": [
+          "Cal.1887（セリコーダー由来）",
+          "Heuer 02（インハウス自動巻きクロノ）",
+          "カレラ 16 等現行ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "インハウスムーブで復活したスポーツクロノ。"
+    },
+    {
+      "yearFrom": 1989,
+      "yearTo": 1992,
+      "label": "1989–1992 復活〜現代",
+      "whyItMatters": "タグ・ホイヤー期にクラシックデザインを復刻。Cal.1887、Heuer 02 などインハウスムーブでスポーツクロノの顔に。",
+      "delta": {
+        "added": [
+          "Cal.1887（セリコーダー由来）",
+          "Heuer 02（インハウス自動巻きクロノ）",
+          "カレラ 16 等現行ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "インハウスムーブで復活したスポーツクロノ。"
+    },
+    {
+      "yearFrom": 1993,
+      "yearTo": 1997,
+      "label": "1993–1997 復活〜現代",
+      "whyItMatters": "Cal.1887（セリコーダー由来）。",
+      "delta": {
+        "added": [
+          "Cal.1887（セリコーダー由来）",
+          "Heuer 02（インハウス自動巻きクロノ）",
+          "カレラ 16 等現行ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Heuer 02（インハウス自動巻きクロノ）。"
+    }
+  ],
+  "ms-carrera-8": [
+    {
+      "yearFrom": 1998,
+      "yearTo": 2001,
+      "label": "1998–2001 復活〜現代",
+      "whyItMatters": "Cal.1887（セリコーダー由来）。",
+      "delta": {
+        "added": [
+          "Cal.1887（セリコーダー由来）",
+          "Heuer 02（インハウス自動巻きクロノ）",
+          "カレラ 16 等現行ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Heuer 02（インハウス自動巻きクロノ）。"
+    },
+    {
+      "yearFrom": 2002,
+      "yearTo": 2005,
+      "label": "2002–2005 復活〜現代",
+      "whyItMatters": "Heuer 02（インハウス自動巻きクロノ）。",
+      "delta": {
+        "added": [
+          "Cal.1887（セリコーダー由来）",
+          "Heuer 02（インハウス自動巻きクロノ）",
+          "カレラ 16 等現行ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Cal.1887（セリコーダー由来）。"
+    },
+    {
+      "yearFrom": 2006,
+      "yearTo": 2010,
+      "label": "2006–2010 復活〜現代",
+      "whyItMatters": "Heuer 02（インハウス自動巻きクロノ）。",
+      "delta": {
+        "added": [
+          "Cal.1887 採用"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Cal.1887（セリコーダー由来）。"
+    }
+  ],
+  "ms-carrera-9": [
+    {
+      "yearFrom": 2011,
+      "yearTo": 2015,
+      "label": "2011–2015 復活〜現代",
+      "whyItMatters": "カレラ 16 等現行ライン。",
+      "delta": {
+        "added": [
+          "Cal.1887（セリコーダー由来）",
+          "Heuer 02（インハウス自動巻きクロノ）",
+          "カレラ 16 等現行ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Cal.1887 採用。"
+    },
+    {
+      "yearFrom": 2016,
+      "yearTo": 2020,
+      "label": "2016–2020 復活〜現代",
+      "whyItMatters": "カレラ 16 等現行ライン。",
+      "delta": {
+        "added": [
+          "Heuer 02 本格展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Cal.1887 採用。"
+    },
+    {
+      "yearFrom": 2021,
+      "yearTo": 2026,
+      "label": "2021– 現行",
+      "whyItMatters": "Cal.1887 採用。",
+      "delta": {
+        "added": [
+          "Cal.1887（セリコーダー由来）",
+          "Heuer 02（インハウス自動巻きクロノ）",
+          "カレラ 16 等現行ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "カレラ 16 等現行ライン。"
+    }
+  ],
+  "ms-monaco-1": [
+    {
+      "yearFrom": 1969,
+      "yearTo": 1970,
+      "label": "1969–1970 デビュー（1969）",
+      "whyItMatters": "角型ケースと世界初の自動巻きクロノの一翼。Cal.11 ベースでモナコGP にちなんだネーミング。",
+      "delta": {
+        "added": [
+          "Monaco 発売（Cal.11）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "角型ケースの自動巻きクロノとしてデビュー。"
+    }
+  ],
+  "ms-monaco-2": [
+    {
+      "yearFrom": 1971,
+      "yearTo": 1972,
+      "label": "1971–1972 デビュー（1969）",
+      "whyItMatters": "角型ケースと世界初の自動巻きクロノの一翼。Cal.11 ベースでモナコGP にちなんだネーミング。",
+      "delta": {
+        "added": [
+          "世界初の自動巻きクロノグラフの一翼（Cal.11）",
+          "角型ウォータープルーフケース",
+          "モナコGP 由来"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "角型ケースの自動巻きクロノとしてデビュー。"
+    }
+  ],
+  "ms-monaco-3": [
+    {
+      "yearFrom": 1973,
+      "yearTo": 1975,
+      "label": "1973–1975 デビュー（1969）",
+      "whyItMatters": "世界初の自動巻きクロノグラフの一翼（Cal.11）。",
+      "delta": {
+        "added": [
+          "世界初の自動巻きクロノグラフの一翼（Cal.11）",
+          "角型ウォータープルーフケース",
+          "モナコGP 由来"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "角型ウォータープルーフケース。"
+    }
+  ],
+  "ms-monaco-4": [
+    {
+      "yearFrom": 1975,
+      "yearTo": 1976,
+      "label": "1975–1976 クォーツ期",
+      "whyItMatters": "クォーツモデルへ移行。角型シルエットはそのままに、電池式でラインナップを維持。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "角型ケース継続",
+          "レーシングイメージ維持"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "角型デザインを継承したクォーツ期。"
+    },
+    {
+      "yearFrom": 1977,
+      "yearTo": 1979,
+      "label": "1977–1979 クォーツ期",
+      "whyItMatters": "クォーツモデルへ移行。角型シルエットはそのままに、電池式でラインナップを維持。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "角型ケース継続",
+          "レーシングイメージ維持"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "角型デザインを継承したクォーツ期。"
+    }
+  ],
+  "ms-monaco-5": [
+    {
+      "yearFrom": 1980,
+      "yearTo": 1981,
+      "label": "1980–1981 クォーツ期",
+      "whyItMatters": "角型ケース継続。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "角型ケース継続",
+          "レーシングイメージ維持"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "レーシングイメージ維持。"
+    },
+    {
+      "yearFrom": 1982,
+      "yearTo": 1984,
+      "label": "1982–1984 クォーツ期",
+      "whyItMatters": "角型ケース継続。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "角型ケース継続",
+          "レーシングイメージ維持"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "レーシングイメージ維持。"
+    }
+  ],
+  "ms-monaco-6": [
+    {
+      "yearFrom": 1985,
+      "yearTo": 1986,
+      "label": "1985–1986 クォーツ期",
+      "whyItMatters": "レーシングイメージ維持。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "角型ケース継続",
+          "レーシングイメージ維持"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "角型ケース継続。"
+    },
+    {
+      "yearFrom": 1987,
+      "yearTo": 1990,
+      "label": "1987–1990 クォーツ期",
+      "whyItMatters": "レーシングイメージ維持。",
+      "delta": {
+        "added": [
+          "クォーツ移行",
+          "角型ケース継続",
+          "レーシングイメージ維持"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "角型ケース継続。"
+    }
+  ],
+  "ms-monaco-7": [
+    {
+      "yearFrom": 1990,
+      "yearTo": 1992,
+      "label": "1990–1992 現代のモナコ",
+      "whyItMatters": "ル・マンやスティーブ・マックイーンとの結びつきを前面に。角型の現行モナコはレース・映画ファンに人気。",
+      "delta": {
+        "added": [
+          "ル・マン／モナコGP 連携",
+          "スティーブ・マックイーン着用でアイコン化",
+          "Cal.11 復刻・Heuer 02 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ル・マンや映画と結びついたアイコンモデル。"
+    },
+    {
+      "yearFrom": 1993,
+      "yearTo": 1995,
+      "label": "1993–1995 現代のモナコ",
+      "whyItMatters": "ル・マンやスティーブ・マックイーンとの結びつきを前面に。角型の現行モナコはレース・映画ファンに人気。",
+      "delta": {
+        "added": [
+          "ル・マン／モナコGP 連携",
+          "スティーブ・マックイーン着用でアイコン化",
+          "Cal.11 復刻・Heuer 02 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ル・マンや映画と結びついたアイコンモデル。"
+    },
+    {
+      "yearFrom": 1996,
+      "yearTo": 2001,
+      "label": "1996–2001 現代のモナコ",
+      "whyItMatters": "ル・マン／モナコGP 連携。",
+      "delta": {
+        "added": [
+          "モナコ復刻"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "スティーブ・マックイーン着用でアイコン化。"
+    }
+  ],
+  "ms-monaco-8": [
+    {
+      "yearFrom": 2002,
+      "yearTo": 2004,
+      "label": "2002–2004 現代のモナコ",
+      "whyItMatters": "ル・マン／モナコGP 連携。",
+      "delta": {
+        "added": [
+          "ル・マン／モナコGP 連携",
+          "スティーブ・マックイーン着用でアイコン化",
+          "Cal.11 復刻・Heuer 02 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "スティーブ・マックイーン着用でアイコン化。"
+    },
+    {
+      "yearFrom": 2005,
+      "yearTo": 2007,
+      "label": "2005–2007 現代のモナコ",
+      "whyItMatters": "スティーブ・マックイーン着用でアイコン化。",
+      "delta": {
+        "added": [
+          "ル・マン／モナコGP 連携",
+          "スティーブ・マックイーン着用でアイコン化",
+          "Cal.11 復刻・Heuer 02 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ル・マン／モナコGP 連携。"
+    },
+    {
+      "yearFrom": 2008,
+      "yearTo": 2013,
+      "label": "2008–2013 現代のモナコ",
+      "whyItMatters": "スティーブ・マックイーン着用でアイコン化。",
+      "delta": {
+        "added": [
+          "ル・マン／モナコGP 連携",
+          "スティーブ・マックイーン着用でアイコン化",
+          "Cal.11 復刻・Heuer 02 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "ル・マン／モナコGP 連携。"
+    }
+  ],
+  "ms-monaco-9": [
+    {
+      "yearFrom": 2014,
+      "yearTo": 2017,
+      "label": "2014–2017 現代のモナコ",
+      "whyItMatters": "Cal.11 復刻・Heuer 02 等。",
+      "delta": {
+        "added": [
+          "ル・マン／モナコGP 連携",
+          "スティーブ・マックイーン着用でアイコン化",
+          "Cal.11 復刻・Heuer 02 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "モナコ復刻。"
+    },
+    {
+      "yearFrom": 2018,
+      "yearTo": 2021,
+      "label": "2018–2021 現代のモナコ",
+      "whyItMatters": "Cal.11 復刻・Heuer 02 等。",
+      "delta": {
+        "added": [
+          "50周年限定"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "モナコ復刻。"
+    },
+    {
+      "yearFrom": 2022,
+      "yearTo": 2026,
+      "label": "2022– 現行",
+      "whyItMatters": "モナコ復刻。",
+      "delta": {
+        "added": [
+          "ル・マン／モナコGP 連携",
+          "スティーブ・マックイーン着用でアイコン化",
+          "Cal.11 復刻・Heuer 02 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Cal.11 復刻・Heuer 02 等。"
+    }
+  ],
+  "ms-autavia-1": [
+    {
+      "yearFrom": 1962,
+      "yearTo": 1963,
+      "label": "1962–1963 初代オートビア",
+      "whyItMatters": "自動と航空を組み合わせた造語。レーシング・航空向けの名前付きクロノグラフとしてヘウエルを代表。",
+      "delta": {
+        "added": [
+          "Autavia 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "レーシング・航空向けの名前付きクロノ。"
+    },
+    {
+      "yearFrom": 1964,
+      "yearTo": 1966,
+      "label": "1964–1966 初代オートビア",
+      "whyItMatters": "自動と航空を組み合わせた造語。レーシング・航空向けの名前付きクロノグラフとしてヘウエルを代表。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "レーシング・航空向けの名前付きクロノ。"
+    }
+  ],
+  "ms-autavia-2": [
+    {
+      "yearFrom": 1967,
+      "yearTo": 1968,
+      "label": "1967–1968 初代オートビア",
+      "whyItMatters": "Autavia 発売（名前付きクロノの先駆け）。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ダッシュボード用タイマー由来。"
+    },
+    {
+      "yearFrom": 1969,
+      "yearTo": 1971,
+      "label": "1969–1971 初代オートビア",
+      "whyItMatters": "Autavia 発売（名前付きクロノの先駆け）。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ダッシュボード用タイマー由来。"
+    }
+  ],
+  "ms-autavia-3": [
+    {
+      "yearFrom": 1972,
+      "yearTo": 1973,
+      "label": "1972–1973 初代オートビア",
+      "whyItMatters": "ダッシュボード用タイマー由来。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Autavia 発売（名前付きクロノの先駆け）。"
+    },
+    {
+      "yearFrom": 1974,
+      "yearTo": 1976,
+      "label": "1974–1976 初代オートビア",
+      "whyItMatters": "ダッシュボード用タイマー由来。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Autavia 発売（名前付きクロノの先駆け）。"
+    }
+  ],
+  "ms-autavia-4": [
+    {
+      "yearFrom": 1977,
+      "yearTo": 1978,
+      "label": "1977–1978 初代オートビア",
+      "whyItMatters": "手巻き・自動巻きのバリエーション。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Autavia 発売。"
+    },
+    {
+      "yearFrom": 1979,
+      "yearTo": 1980,
+      "label": "1979–1980 初代オートビア",
+      "whyItMatters": "手巻き・自動巻きのバリエーション。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Autavia 発売。"
+    },
+    {
+      "yearFrom": 1981,
+      "yearTo": 1985,
+      "label": "1981–1985 初代オートビア",
+      "whyItMatters": "Autavia 発売。",
+      "delta": {
+        "added": [
+          "Autavia 発売（名前付きクロノの先駆け）",
+          "ダッシュボード用タイマー由来",
+          "手巻き・自動巻きのバリエーション"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "手巻き・自動巻きのバリエーション。"
+    }
+  ],
+  "ms-autavia-5": [
+    {
+      "yearFrom": 2017,
+      "yearTo": 2018,
+      "label": "2017–2018 復刻〜現代",
+      "whyItMatters": "タグ・ホイヤーが復刻。Cal.5 自動巻きとレトロダイアルでヴィンテージファンに訴求。",
+      "delta": {
+        "added": [
+          "Autavia 復刻"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "レトロダイアルで復刻した現行ライン。"
+    }
+  ],
+  "ms-autavia-6": [
+    {
+      "yearFrom": 2019,
+      "yearTo": 2020,
+      "label": "2019–2020 復刻〜現代",
+      "whyItMatters": "タグ・ホイヤーが復刻。Cal.5 自動巻きとレトロダイアルでヴィンテージファンに訴求。",
+      "delta": {
+        "added": [
+          "Autavia 復刻",
+          "Cal.5 自動巻き",
+          "レトロダイアル・パイロットベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "レトロダイアルで復刻した現行ライン。"
+    }
+  ],
+  "ms-autavia-7": [
+    {
+      "yearFrom": 2021,
+      "yearTo": 2022,
+      "label": "2021–2022 復刻〜現代",
+      "whyItMatters": "Autavia 復刻。",
+      "delta": {
+        "added": [
+          "Autavia 復刻",
+          "Cal.5 自動巻き",
+          "レトロダイアル・パイロットベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Cal.5 自動巻き。"
+    }
+  ],
+  "ms-autavia-8": [
+    {
+      "yearFrom": 2023,
+      "yearTo": 2023,
+      "label": "2023 復刻〜現代",
+      "whyItMatters": "Autavia 復刻。",
+      "delta": {
+        "added": [
+          "Autavia 復刻",
+          "Cal.5 自動巻き",
+          "レトロダイアル・パイロットベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Cal.5 自動巻き。"
+    },
+    {
+      "yearFrom": 2024,
+      "yearTo": 2026,
+      "label": "2024– 現行",
+      "whyItMatters": "Cal.5 自動巻き。",
+      "delta": {
+        "added": [
+          "Autavia 復刻",
+          "Cal.5 自動巻き",
+          "レトロダイアル・パイロットベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Autavia 復刻。"
+    }
+  ],
+  "ms-seamaster-1": [
+    {
+      "yearFrom": 1948,
+      "yearTo": 1948,
+      "label": "1948 初期シーマスター",
+      "whyItMatters": "オメガの日常用防水ラインとして誕生。ドレスからスポーツまで幅広いシーマスターの起点。",
+      "delta": {
+        "added": [
+          "Seamaster 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "日常用防水ラインの起点。"
+    },
+    {
+      "yearFrom": 1949,
+      "yearTo": 1951,
+      "label": "1949–1951 初期シーマスター",
+      "whyItMatters": "オメガの日常用防水ラインとして誕生。ドレスからスポーツまで幅広いシーマスターの起点。",
+      "delta": {
+        "added": [
+          "Seamaster 発売",
+          "日常用防水",
+          "オメガ主力ラインの一つ"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "日常用防水ラインの起点。"
+    }
+  ],
+  "ms-seamaster-2": [
+    {
+      "yearFrom": 1952,
+      "yearTo": 1952,
+      "label": "1952 初期シーマスター",
+      "whyItMatters": "Seamaster 発売。",
+      "delta": {
+        "added": [
+          "Seamaster 発売",
+          "日常用防水",
+          "オメガ主力ラインの一つ"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "日常用防水。"
+    },
+    {
+      "yearFrom": 1953,
+      "yearTo": 1955,
+      "label": "1953–1955 初期シーマスター",
+      "whyItMatters": "Seamaster 発売。",
+      "delta": {
+        "added": [
+          "Seamaster 発売",
+          "日常用防水",
+          "オメガ主力ラインの一つ"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "日常用防水。"
+    }
+  ],
+  "ms-seamaster-3": [
+    {
+      "yearFrom": 1956,
+      "yearTo": 1957,
+      "label": "1956–1957 初期シーマスター",
+      "whyItMatters": "日常用防水。",
+      "delta": {
+        "added": [
+          "Seamaster 発売",
+          "日常用防水",
+          "オメガ主力ラインの一つ"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Seamaster 発売。"
+    },
+    {
+      "yearFrom": 1958,
+      "yearTo": 1960,
+      "label": "1958–1960 初期シーマスター",
+      "whyItMatters": "日常用防水。",
+      "delta": {
+        "added": [
+          "Seamaster 発売",
+          "日常用防水",
+          "オメガ主力ラインの一つ"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Seamaster 発売。"
+    }
+  ],
+  "ms-seamaster-4": [
+    {
+      "yearFrom": 1960,
+      "yearTo": 1962,
+      "label": "1960–1962 ダイバーライン確立",
+      "whyItMatters": "300m 防水など本格ダイバー仕様を拡充。一方向ベゼルとプロフェッショナルラインを確立。",
+      "delta": {
+        "added": [
+          "ダイバーライン本格化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "本格ダイバー仕様の確立期。"
+    },
+    {
+      "yearFrom": 1963,
+      "yearTo": 1965,
+      "label": "1963–1965 ダイバーライン確立",
+      "whyItMatters": "300m 防水など本格ダイバー仕様を拡充。一方向ベゼルとプロフェッショナルラインを確立。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "本格ダイバー仕様の確立期。"
+    },
+    {
+      "yearFrom": 1966,
+      "yearTo": 1969,
+      "label": "1966–1969 ダイバーライン確立",
+      "whyItMatters": "300m防水。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "一方向回転ベゼル。"
+    }
+  ],
+  "ms-seamaster-5": [
+    {
+      "yearFrom": 1970,
+      "yearTo": 1972,
+      "label": "1970–1972 ダイバーライン確立",
+      "whyItMatters": "300m防水。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "一方向回転ベゼル。"
+    },
+    {
+      "yearFrom": 1973,
+      "yearTo": 1975,
+      "label": "1973–1975 ダイバーライン確立",
+      "whyItMatters": "一方向回転ベゼル。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "300m防水。"
+    },
+    {
+      "yearFrom": 1976,
+      "yearTo": 1979,
+      "label": "1976–1979 ダイバーライン確立",
+      "whyItMatters": "一方向回転ベゼル。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "300m防水。"
+    }
+  ],
+  "ms-seamaster-6": [
+    {
+      "yearFrom": 1980,
+      "yearTo": 1982,
+      "label": "1980–1982 ダイバーライン確立",
+      "whyItMatters": "Seamaster 300 等。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ダイバーライン本格化。"
+    },
+    {
+      "yearFrom": 1983,
+      "yearTo": 1985,
+      "label": "1983–1985 ダイバーライン確立",
+      "whyItMatters": "Seamaster 300 等。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ダイバーライン本格化。"
+    },
+    {
+      "yearFrom": 1986,
+      "yearTo": 1990,
+      "label": "1986–1990 ダイバーライン確立",
+      "whyItMatters": "ダイバーライン本格化。",
+      "delta": {
+        "added": [
+          "300m防水",
+          "一方向回転ベゼル",
+          "Seamaster 300 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Seamaster 300 等。"
+    }
+  ],
+  "ms-seamaster-7": [
+    {
+      "yearFrom": 1990,
+      "yearTo": 1992,
+      "label": "1990–1992 現代シーマスター",
+      "whyItMatters": "ジェームズ・ボンド着用で世界的に認知。コアキシャルムーブメントと300mダイバーが定番に。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ボンド着用で知られる300mダイバー。"
+    },
+    {
+      "yearFrom": 1993,
+      "yearTo": 1995,
+      "label": "1993–1995 現代シーマスター",
+      "whyItMatters": "ジェームズ・ボンド着用で世界的に認知。コアキシャルムーブメントと300mダイバーが定番に。",
+      "delta": {
+        "added": [
+          "007 ゴールデンアイ"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ボンド着用で知られる300mダイバー。"
+    },
+    {
+      "yearFrom": 1996,
+      "yearTo": 2001,
+      "label": "1996–2001 現代シーマスター",
+      "whyItMatters": "ジェームズ・ボンド着用（Seamaster Diver 300M）。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "コアキシャルムーブメント。"
+    }
+  ],
+  "ms-seamaster-8": [
+    {
+      "yearFrom": 2002,
+      "yearTo": 2004,
+      "label": "2002–2004 現代シーマスター",
+      "whyItMatters": "ジェームズ・ボンド着用（Seamaster Diver 300M）。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "コアキシャルムーブメント。"
+    },
+    {
+      "yearFrom": 2005,
+      "yearTo": 2007,
+      "label": "2005–2007 現代シーマスター",
+      "whyItMatters": "コアキシャルムーブメント。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ジェームズ・ボンド着用（Seamaster Diver 300M）。"
+    },
+    {
+      "yearFrom": 2008,
+      "yearTo": 2013,
+      "label": "2008–2013 現代シーマスター",
+      "whyItMatters": "コアキシャルムーブメント。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "ジェームズ・ボンド着用（Seamaster Diver 300M）。"
+    }
+  ],
+  "ms-seamaster-9": [
+    {
+      "yearFrom": 2014,
+      "yearTo": 2017,
+      "label": "2014–2017 現代シーマスター",
+      "whyItMatters": "ヘリウム escape バルブ等。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "007 ゴールデンアイ。"
+    },
+    {
+      "yearFrom": 2018,
+      "yearTo": 2021,
+      "label": "2018–2021 現代シーマスター",
+      "whyItMatters": "ヘリウム escape バルブ等。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "007 ゴールデンアイ。"
+    },
+    {
+      "yearFrom": 2022,
+      "yearTo": 2026,
+      "label": "2022– 現行",
+      "whyItMatters": "007 ゴールデンアイ。",
+      "delta": {
+        "added": [
+          "ジェームズ・ボンド着用（Seamaster Diver 300M）",
+          "コアキシャルムーブメント",
+          "ヘリウム escape バルブ等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "ヘリウム escape バルブ等。"
+    }
+  ],
+  "ms-constellation-1": [
+    {
+      "yearFrom": 1952,
+      "yearTo": 1953,
+      "label": "1952–1953 初期コンステレーション",
+      "whyItMatters": "オメガの高精度ドレスウォッチとして誕生。天文台検定を意識したネーミングと品質で定番化。",
+      "delta": {
+        "added": [
+          "Constellation 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "高精度ドレスウォッチとして確立。"
+    },
+    {
+      "yearFrom": 1954,
+      "yearTo": 1957,
+      "label": "1954–1957 初期コンステレーション",
+      "whyItMatters": "オメガの高精度ドレスウォッチとして誕生。天文台検定を意識したネーミングと品質で定番化。",
+      "delta": {
+        "added": [
+          "Constellation 発売",
+          "天文台級精度",
+          "ピエ・パン・ドーム等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "高精度ドレスウォッチとして確立。"
+    }
+  ],
+  "ms-constellation-2": [
+    {
+      "yearFrom": 1958,
+      "yearTo": 1959,
+      "label": "1958–1959 初期コンステレーション",
+      "whyItMatters": "Constellation 発売。",
+      "delta": {
+        "added": [
+          "Constellation 発売",
+          "天文台級精度",
+          "ピエ・パン・ドーム等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "天文台級精度。"
+    },
+    {
+      "yearFrom": 1960,
+      "yearTo": 1963,
+      "label": "1960–1963 初期コンステレーション",
+      "whyItMatters": "Constellation 発売。",
+      "delta": {
+        "added": [
+          "Constellation 発売",
+          "天文台級精度",
+          "ピエ・パン・ドーム等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "天文台級精度。"
+    }
+  ],
+  "ms-constellation-3": [
+    {
+      "yearFrom": 1964,
+      "yearTo": 1966,
+      "label": "1964–1966 初期コンステレーション",
+      "whyItMatters": "天文台級精度。",
+      "delta": {
+        "added": [
+          "Constellation 発売",
+          "天文台級精度",
+          "ピエ・パン・ドーム等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Constellation 発売。"
+    },
+    {
+      "yearFrom": 1967,
+      "yearTo": 1970,
+      "label": "1967–1970 初期コンステレーション",
+      "whyItMatters": "天文台級精度。",
+      "delta": {
+        "added": [
+          "Constellation 発売",
+          "天文台級精度",
+          "ピエ・パン・ドーム等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Constellation 発売。"
+    }
+  ],
+  "ms-constellation-4": [
+    {
+      "yearFrom": 1970,
+      "yearTo": 1972,
+      "label": "1970–1972 クォーツ・マンハッタン",
+      "whyItMatters": "クォーツとマンハッタンケース（グラデーションラグ）でデザインを刷新。女性層にも人気。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "マンハッタンケースで人気を広げた時期。"
+    },
+    {
+      "yearFrom": 1973,
+      "yearTo": 1975,
+      "label": "1973–1975 クォーツ・マンハッタン",
+      "whyItMatters": "クォーツとマンハッタンケース（グラデーションラグ）でデザインを刷新。女性層にも人気。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "マンハッタンケースで人気を広げた時期。"
+    },
+    {
+      "yearFrom": 1976,
+      "yearTo": 1979,
+      "label": "1976–1979 クォーツ・マンハッタン",
+      "whyItMatters": "マンハッタンケース（ツインバー）。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "クォーツ高精度。"
+    }
+  ],
+  "ms-constellation-5": [
+    {
+      "yearFrom": 1980,
+      "yearTo": 1982,
+      "label": "1980–1982 クォーツ・マンハッタン",
+      "whyItMatters": "マンハッタンケース（ツインバー）。",
+      "delta": {
+        "added": [
+          "マンハッタン登場"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "クォーツ高精度。"
+    },
+    {
+      "yearFrom": 1983,
+      "yearTo": 1985,
+      "label": "1983–1985 クォーツ・マンハッタン",
+      "whyItMatters": "クォーツ高精度。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "マンハッタンケース（ツインバー）。"
+    },
+    {
+      "yearFrom": 1986,
+      "yearTo": 1989,
+      "label": "1986–1989 クォーツ・マンハッタン",
+      "whyItMatters": "クォーツ高精度。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "マンハッタンケース（ツインバー）。"
+    }
+  ],
+  "ms-constellation-6": [
+    {
+      "yearFrom": 1990,
+      "yearTo": 1992,
+      "label": "1990–1992 クォーツ・マンハッタン",
+      "whyItMatters": "レディース展開。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "マンハッタン登場。"
+    },
+    {
+      "yearFrom": 1993,
+      "yearTo": 1995,
+      "label": "1993–1995 クォーツ・マンハッタン",
+      "whyItMatters": "レディース展開。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "マンハッタン登場。"
+    },
+    {
+      "yearFrom": 1996,
+      "yearTo": 2000,
+      "label": "1996–2000 クォーツ・マンハッタン",
+      "whyItMatters": "マンハッタン登場。",
+      "delta": {
+        "added": [
+          "マンハッタンケース（ツインバー）",
+          "クォーツ高精度",
+          "レディース展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "レディース展開。"
+    }
+  ],
+  "ms-constellation-7": [
+    {
+      "yearFrom": 2000,
+      "yearTo": 2001,
+      "label": "2000–2001 現代コンステレーション",
+      "whyItMatters": "至臻天文台（METAS）認定。36mm／41mm 等の現行ラインでドレスとスポーツの両方に対応。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "至臻天文台認定の現行ライン。"
+    },
+    {
+      "yearFrom": 2002,
+      "yearTo": 2003,
+      "label": "2002–2003 現代コンステレーション",
+      "whyItMatters": "至臻天文台（METAS）認定。36mm／41mm 等の現行ラインでドレスとスポーツの両方に対応。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "至臻天文台認定の現行ライン。"
+    },
+    {
+      "yearFrom": 2004,
+      "yearTo": 2007,
+      "label": "2004–2007 現代コンステレーション",
+      "whyItMatters": "至臻天文台（METAS）認定。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "36mm／41mm 現行。"
+    }
+  ],
+  "ms-constellation-8": [
+    {
+      "yearFrom": 2008,
+      "yearTo": 2009,
+      "label": "2008–2009 現代コンステレーション",
+      "whyItMatters": "至臻天文台（METAS）認定。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "36mm／41mm 現行。"
+    },
+    {
+      "yearFrom": 2010,
+      "yearTo": 2011,
+      "label": "2010–2011 現代コンステレーション",
+      "whyItMatters": "36mm／41mm 現行。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "至臻天文台（METAS）認定。"
+    },
+    {
+      "yearFrom": 2012,
+      "yearTo": 2015,
+      "label": "2012–2015 現代コンステレーション",
+      "whyItMatters": "36mm／41mm 現行。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "至臻天文台（METAS）認定。"
+    }
+  ],
+  "ms-constellation-9": [
+    {
+      "yearFrom": 2016,
+      "yearTo": 2018,
+      "label": "2016–2018 現代コンステレーション",
+      "whyItMatters": "コンステレーション 29mm 等。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "至臻天文台（METAS）認定。36mm／41mm 等の現行ラインでドレスとスポーツの両方に対応。"
+    },
+    {
+      "yearFrom": 2019,
+      "yearTo": 2021,
+      "label": "2019–2021 現代コンステレーション",
+      "whyItMatters": "コンステレーション 29mm 等。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "至臻天文台（METAS）認定。36mm／41mm 等の現行ラインでドレスとスポーツの両方に対応。"
+    },
+    {
+      "yearFrom": 2022,
+      "yearTo": 2026,
+      "label": "2022– 現行",
+      "whyItMatters": "この時期の代表的な仕様・モデル展開。",
+      "delta": {
+        "added": [
+          "至臻天文台（METAS）認定",
+          "36mm／41mm 現行",
+          "コンステレーション 29mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "コンステレーション 29mm 等。"
+    }
+  ],
+  "ms-el-primero-1": [
+    {
+      "yearFrom": 1969,
+      "yearTo": 1969,
+      "label": "1969 世界初・エル・プリメロ発表",
+      "whyItMatters": "世界初の一体型自動巻きクロノグラフ。36,000vph（5Hz）・計測1/10秒。",
+      "delta": {
+        "added": [
+          "El Primero ムーブメント",
+          "36,000vph",
+          "一体型自動巻きクロノ"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1970,
+      "yearTo": 1970,
+      "label": "1970 量産開始・複数モデル展開",
+      "whyItMatters": "ゼニス自社クロノグラフに搭載。高振動の利点が評価される。",
+      "delta": {
+        "added": [
+          "量産モデル"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-el-primero-2": [
+    {
+      "yearFrom": 1971,
+      "yearTo": 1972,
+      "label": "1971–1972 クォーツ台頭期",
+      "whyItMatters": "スイス・クォーツショック前夜。機械式クロノの頂点として供給継続。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    }
+  ],
+  "ms-el-primero-3": [
+    {
+      "yearFrom": 1973,
+      "yearTo": 1975,
+      "label": "1973–1975 クォーツ危機・生産縮小",
+      "whyItMatters": "クォーツ移行で機械式需要激減。エル・プリメロ生産縮小の時代。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    }
+  ],
+  "ms-el-primero-4": [
+    {
+      "yearFrom": 1975,
+      "yearTo": 1978,
+      "label": "1975–1978 生産休止の危機",
+      "whyItMatters": "ゼニスが機械式生産を縮小。エル・プリメロ用工具・図面の廃棄が検討された時期。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1979,
+      "yearTo": 1980,
+      "label": "1979–1980 伝説の「救出」",
+      "whyItMatters": "職人が工具・部品を隠し保管。のちのロレックス・デイトナ用4030の母胎となる。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    },
+    {
+      "yearFrom": 1981,
+      "yearTo": 1982,
+      "label": "1981–1982 他社供給の始まり",
+      "whyItMatters": "ロレックス等へのムーブメント供給が再開・拡大。エル・プリメロ復活の布石。",
+      "delta": {
+        "added": [
+          "他社供給"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 3
+    }
+  ],
+  "ms-el-primero-5": [
+    {
+      "yearFrom": 1983,
+      "yearTo": 1987,
+      "label": "1983–1987 ロレックス・デイトナ用4030",
+      "whyItMatters": "エル・プリメロをベースにした Cal.4030。ゼニス製がロレックス・デイトナに搭載。",
+      "delta": {
+        "added": [
+          "ロレックス Cal.4030 供給"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1988,
+      "yearTo": 1990,
+      "label": "1988–1990 ゼニス復興と自社復刻",
+      "whyItMatters": "LVMH 傘下等でゼニス再建。自社クロノグラフにエル・プリメロ再搭載の動き。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-el-primero-6": [
+    {
+      "yearFrom": 1991,
+      "yearTo": 1995,
+      "label": "1991–1995 エル・プリメロ名の復活",
+      "whyItMatters": "ゼニスが「El Primero」名で自社モデルを本格復活。高振動クロノの象徴に。",
+      "delta": {
+        "added": [
+          "El Primero 名称の復活"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 1996,
+      "yearTo": 2000,
+      "label": "1996–2000 クロノマスター等の拡充",
+      "whyItMatters": "Chronomaster 等のライン確立。36,000vph の価値が再評価される。",
+      "delta": {
+        "added": [
+          "Chronomaster 等"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-el-primero-7": [
+    {
+      "yearFrom": 2000,
+      "yearTo": 2003,
+      "label": "2000–2003 現代ライン確立",
+      "whyItMatters": "Chronomaster、オープン heart 等。エル・プリメロがゼニスの顔に。",
+      "delta": {
+        "added": [
+          "Chronomaster 拡充",
+          "オープンハート等"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 2004,
+      "yearTo": 2007,
+      "label": "2004–2007 限定・特別モデル",
+      "whyItMatters": "記念モデルやコラボが増加。36,000vph の技術的価値が再認識。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-el-primero-8": [
+    {
+      "yearFrom": 2008,
+      "yearTo": 2012,
+      "label": "2008–2012 ストラトス・ストライキング",
+      "whyItMatters": "ストラトス、ストライキング 10th 等。多様なケース・コレクション展開。",
+      "delta": {
+        "added": [
+          "ストラトス",
+          "ストライキング 10th 等"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 2013,
+      "yearTo": 2015,
+      "label": "2013–2015 クロノマスター 36,000",
+      "whyItMatters": "現行 Chronomaster の基盤。1/10秒計測・高振動の訴求を強化。",
+      "delta": {
+        "added": [],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-el-primero-9": [
+    {
+      "yearFrom": 2016,
+      "yearTo": 2019,
+      "label": "2016–2019 デファイ・エルプリメロ",
+      "whyItMatters": "Defy El Primero 21（1/100秒）等。高振動から超高振動へ。",
+      "delta": {
+        "added": [
+          "Defy El Primero 21",
+          "1/100秒計測"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 1
+    },
+    {
+      "yearFrom": 2020,
+      "yearTo": null,
+      "label": "2020– 現行エル・プリメロ",
+      "whyItMatters": "Chronomaster Sport、Revival 等。36,000vph の現行ライン。",
+      "delta": {
+        "added": [
+          "Chronomaster Sport",
+          "Revival 等"
+        ],
+        "changed": [],
+        "removed": []
+      },
+      "sortOrder": 2
+    }
+  ],
+  "ms-defy-1": [
+    {
+      "yearFrom": 1969,
+      "yearTo": 1970,
+      "label": "1969–1970 初代デファイ",
+      "whyItMatters": "角型・耐磁などの実験的ライン。",
+      "delta": {
+        "added": [
+          "Defy 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "角型・耐磁の実験的ライン。"
+    }
+  ],
+  "ms-defy-2": [
+    {
+      "yearFrom": 1971,
+      "yearTo": 1972,
+      "label": "1971–1972 初代デファイ",
+      "whyItMatters": "角型・耐磁などの実験的ライン。",
+      "delta": {
+        "added": [
+          "発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "角型・耐磁の実験的ライン。"
+    }
+  ],
+  "ms-defy-3": [
+    {
+      "yearFrom": 1973,
+      "yearTo": 1974,
+      "label": "1973–1974 初代デファイ",
+      "whyItMatters": "発売。",
+      "delta": {
+        "added": [
+          "発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Defy 発売。"
+    }
+  ],
+  "ms-defy-4": [
+    {
+      "yearFrom": 1975,
+      "yearTo": 1976,
+      "label": "1975–1976 初代デファイ",
+      "whyItMatters": "発売。",
+      "delta": {
+        "added": [
+          "発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Defy 発売。"
+    },
+    {
+      "yearFrom": 1977,
+      "yearTo": 1980,
+      "label": "1977–1980 初代デファイ",
+      "whyItMatters": "Defy 発売。",
+      "delta": {
+        "added": [
+          "発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "発売。"
+    }
+  ],
+  "ms-defy-5": [
+    {
+      "yearFrom": 2017,
+      "yearTo": 2018,
+      "label": "2017–2018 復刻〜現代",
+      "whyItMatters": "復刻。1/100秒計測の Defy 21、スケルトン、Defy Extreme など、ゼニスならではの高振動・前衛ライン。",
+      "delta": {
+        "added": [
+          "Defy 復刻"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "1/100秒やスケルトンなど前衛ライン。"
+    }
+  ],
+  "ms-defy-6": [
+    {
+      "yearFrom": 2019,
+      "yearTo": 2020,
+      "label": "2019–2020 復刻〜現代",
+      "whyItMatters": "復刻。1/100秒計測の Defy 21、スケルトン、Defy Extreme など、ゼニスならではの高振動・前衛ライン。",
+      "delta": {
+        "added": [
+          "Defy 21 1/100秒"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "1/100秒やスケルトンなど前衛ライン。"
+    }
+  ],
+  "ms-defy-7": [
+    {
+      "yearFrom": 2021,
+      "yearTo": 2022,
+      "label": "2021–2022 復刻〜現代",
+      "whyItMatters": "Defy 21（1/100秒クロノ・世界初級）。",
+      "delta": {
+        "added": [
+          "Defy 21（1/100秒クロノ・世界初級）",
+          "スケルトンダイアル",
+          "Defy Extreme（カーボン・チタン）"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "スケルトンダイアル。"
+    }
+  ],
+  "ms-defy-8": [
+    {
+      "yearFrom": 2023,
+      "yearTo": 2023,
+      "label": "2023 復刻〜現代",
+      "whyItMatters": "Defy 21（1/100秒クロノ・世界初級）。",
+      "delta": {
+        "added": [
+          "Defy 21（1/100秒クロノ・世界初級）",
+          "スケルトンダイアル",
+          "Defy Extreme（カーボン・チタン）"
+        ],
+        "changed": [
+          "高振動・多様なケース展開"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "スケルトンダイアル。"
+    },
+    {
+      "yearFrom": 2024,
+      "yearTo": 2026,
+      "label": "2024– 現行",
+      "whyItMatters": "スケルトンダイアル。",
+      "delta": {
+        "added": [
+          "Defy 21（1/100秒クロノ・世界初級）",
+          "スケルトンダイアル",
+          "Defy Extreme（カーボン・チタン）"
+        ],
+        "changed": [
+          "多様なケース・素材の展開"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Defy 21（1/100秒クロノ・世界初級）。"
+    }
+  ],
+  "ms-pilot-1": [
+    {
+      "yearFrom": 2012,
+      "yearTo": 2012,
+      "label": "2012 現行パイロット",
+      "whyItMatters": "ゼニスの航空系ライン。大径ケース・ビッグデイト・Type 20 風デザインでパイロットウォッチの定番に。",
+      "delta": {
+        "added": [
+          "Pilot ライン本格展開"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "航空計器風の大径クロノグラフ。"
+    }
+  ],
+  "ms-pilot-2": [
+    {
+      "yearFrom": 2013,
+      "yearTo": 2013,
+      "label": "2013 現行パイロット",
+      "whyItMatters": "ゼニスの航空系ライン。大径ケース・ビッグデイト・Type 20 風デザインでパイロットウォッチの定番に。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Type 20 風の大径パイロットウォッチ。"
+    }
+  ],
+  "ms-pilot-3": [
+    {
+      "yearFrom": 2014,
+      "yearTo": 2014,
+      "label": "2014 現行パイロット",
+      "whyItMatters": "大径ケース・ビッグデイト。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ビッグデイトの航空系クロノ。"
+    }
+  ],
+  "ms-pilot-4": [
+    {
+      "yearFrom": 2015,
+      "yearTo": 2015,
+      "label": "2015 現行パイロット",
+      "whyItMatters": "大径ケース・ビッグデイト。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "El Primero 搭載のパイロットライン。"
+    }
+  ],
+  "ms-pilot-5": [
+    {
+      "yearFrom": 2016,
+      "yearTo": 2016,
+      "label": "2016 現行パイロット",
+      "whyItMatters": "Type 20 風デザイン。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "大径ケースのゼニス・パイロット。"
+    }
+  ],
+  "ms-pilot-6": [
+    {
+      "yearFrom": 2017,
+      "yearTo": 2017,
+      "label": "2017 現行パイロット",
+      "whyItMatters": "Type 20 風デザイン。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "航空計器風の大径クロノグラフ。"
+    }
+  ],
+  "ms-pilot-7": [
+    {
+      "yearFrom": 2018,
+      "yearTo": 2018,
+      "label": "2018 現行パイロット",
+      "whyItMatters": "El Primero 搭載モデルも。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Type 20 風の大径パイロットウォッチ。"
+    }
+  ],
+  "ms-pilot-8": [
+    {
+      "yearFrom": 2019,
+      "yearTo": 2020,
+      "label": "2019–2020 現行パイロット",
+      "whyItMatters": "El Primero 搭載モデルも。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ビッグデイトの航空系クロノ。"
+    },
+    {
+      "yearFrom": 2021,
+      "yearTo": 2022,
+      "label": "2021–2022 現行パイロット",
+      "whyItMatters": "Pilot ライン本格展開。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "El Primero 搭載のパイロットライン。"
+    },
+    {
+      "yearFrom": 2023,
+      "yearTo": 2026,
+      "label": "2023– 現行",
+      "whyItMatters": "Pilot ライン本格展開。",
+      "delta": {
+        "added": [
+          "大径ケース・ビッグデイト",
+          "Type 20 風デザイン",
+          "El Primero 搭載モデルも"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "大径ケースのゼニス・パイロット。"
+    }
+  ],
+  "ms-navitimer-1": [
+    {
+      "yearFrom": 1952,
+      "yearTo": 1953,
+      "label": "1952–1953 スライドルール時代",
+      "whyItMatters": "航空計算尺（スライドルール）ベゼルでパイロットに採用。ブライトリングの象徴的なモデルに。",
+      "delta": {
+        "added": [
+          "Navitimer 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "航空計算尺ベゼルでパイロットに採用。"
+    },
+    {
+      "yearFrom": 1954,
+      "yearTo": 1957,
+      "label": "1954–1957 スライドルール時代",
+      "whyItMatters": "航空計算尺（スライドルール）ベゼルでパイロットに採用。ブライトリングの象徴的なモデルに。",
+      "delta": {
+        "added": [
+          "Navitimer 発売",
+          "航空計算尺ベゼル",
+          "AOPA 連携"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "航空計算尺ベゼルでパイロットに採用。"
+    }
+  ],
+  "ms-navitimer-2": [
+    {
+      "yearFrom": 1958,
+      "yearTo": 1959,
+      "label": "1958–1959 スライドルール時代",
+      "whyItMatters": "Navitimer 発売。",
+      "delta": {
+        "added": [
+          "Navitimer 発売",
+          "航空計算尺ベゼル",
+          "AOPA 連携"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "航空計算尺ベゼル。"
+    },
+    {
+      "yearFrom": 1960,
+      "yearTo": 1963,
+      "label": "1960–1963 スライドルール時代",
+      "whyItMatters": "Navitimer 発売。",
+      "delta": {
+        "added": [
+          "Navitimer 発売",
+          "航空計算尺ベゼル",
+          "AOPA 連携"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "航空計算尺ベゼル。"
+    }
+  ],
+  "ms-navitimer-3": [
+    {
+      "yearFrom": 1964,
+      "yearTo": 1966,
+      "label": "1964–1966 スライドルール時代",
+      "whyItMatters": "航空計算尺ベゼル。",
+      "delta": {
+        "added": [
+          "Navitimer 発売",
+          "航空計算尺ベゼル",
+          "AOPA 連携"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Navitimer 発売。"
+    },
+    {
+      "yearFrom": 1967,
+      "yearTo": 1970,
+      "label": "1967–1970 スライドルール時代",
+      "whyItMatters": "航空計算尺ベゼル。",
+      "delta": {
+        "added": [
+          "Navitimer 発売",
+          "航空計算尺ベゼル",
+          "AOPA 連携"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Navitimer 発売。"
+    }
+  ],
+  "ms-navitimer-4": [
+    {
+      "yearFrom": 1970,
+      "yearTo": 1972,
+      "label": "1970–1972 進化期",
+      "whyItMatters": "クォーツと自動巻きの両ラインを展開。スライドルールのデザインは継承したまま進化。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "スライドルール継承のうえで進化。"
+    },
+    {
+      "yearFrom": 1973,
+      "yearTo": 1975,
+      "label": "1973–1975 進化期",
+      "whyItMatters": "クォーツと自動巻きの両ラインを展開。スライドルールのデザインは継承したまま進化。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "スライドルール継承のうえで進化。"
+    },
+    {
+      "yearFrom": 1976,
+      "yearTo": 1979,
+      "label": "1976–1979 進化期",
+      "whyItMatters": "クォーツ・自動巻き。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "スライドルール継続。"
+    }
+  ],
+  "ms-navitimer-5": [
+    {
+      "yearFrom": 1980,
+      "yearTo": 1982,
+      "label": "1980–1982 進化期",
+      "whyItMatters": "クォーツ・自動巻き。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "スライドルール継続。"
+    },
+    {
+      "yearFrom": 1983,
+      "yearTo": 1985,
+      "label": "1983–1985 進化期",
+      "whyItMatters": "スライドルール継続。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "クォーツ・自動巻き。"
+    },
+    {
+      "yearFrom": 1986,
+      "yearTo": 1989,
+      "label": "1986–1989 進化期",
+      "whyItMatters": "スライドルール継続。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "クォーツ・自動巻き。"
+    }
+  ],
+  "ms-navitimer-6": [
+    {
+      "yearFrom": 1990,
+      "yearTo": 1992,
+      "label": "1990–1992 進化期",
+      "whyItMatters": "クロノグラフ定番化。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "クォーツと自動巻きの両ラインを展開。スライドルールのデザインは継承したまま進化。"
+    },
+    {
+      "yearFrom": 1993,
+      "yearTo": 1995,
+      "label": "1993–1995 進化期",
+      "whyItMatters": "クロノグラフ定番化。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "クォーツと自動巻きの両ラインを展開。スライドルールのデザインは継承したまま進化。"
+    },
+    {
+      "yearFrom": 1996,
+      "yearTo": 2000,
+      "label": "1996–2000 進化期",
+      "whyItMatters": "デザイン・ムーブ・仕様の更新が行われた区切り。",
+      "delta": {
+        "added": [
+          "クォーツ・自動巻き",
+          "スライドルール継続",
+          "クロノグラフ定番化"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "クロノグラフ定番化。"
+    }
+  ],
+  "ms-navitimer-7": [
+    {
+      "yearFrom": 2000,
+      "yearTo": 2001,
+      "label": "2000–2001 現代ナビタイマー",
+      "whyItMatters": "B01 インハウスムーブメントで再編。ナビタイマー 01 等、現行の顔として定番に。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "B01インハウスで再編した現行。"
+    },
+    {
+      "yearFrom": 2002,
+      "yearTo": 2003,
+      "label": "2002–2003 現代ナビタイマー",
+      "whyItMatters": "B01 インハウスムーブメントで再編。ナビタイマー 01 等、現行の顔として定番に。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "B01インハウスで再編した現行。"
+    },
+    {
+      "yearFrom": 2004,
+      "yearTo": 2007,
+      "label": "2004–2007 現代ナビタイマー",
+      "whyItMatters": "B01 キャリバー（インハウス）。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Navitimer 01 等。"
+    }
+  ],
+  "ms-navitimer-8": [
+    {
+      "yearFrom": 2008,
+      "yearTo": 2009,
+      "label": "2008–2009 現代ナビタイマー",
+      "whyItMatters": "B01 キャリバー（インハウス）。",
+      "delta": {
+        "added": [
+          "B01 発表"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Navitimer 01 等。"
+    },
+    {
+      "yearFrom": 2010,
+      "yearTo": 2011,
+      "label": "2010–2011 現代ナビタイマー",
+      "whyItMatters": "Navitimer 01 等。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "B01 キャリバー（インハウス）。"
+    },
+    {
+      "yearFrom": 2012,
+      "yearTo": 2015,
+      "label": "2012–2015 現代ナビタイマー",
+      "whyItMatters": "Navitimer 01 等。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "B01 キャリバー（インハウス）。"
+    }
+  ],
+  "ms-navitimer-9": [
+    {
+      "yearFrom": 2016,
+      "yearTo": 2018,
+      "label": "2016–2018 現代ナビタイマー",
+      "whyItMatters": "43mm／46mm 等。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "B01 発表。"
+    },
+    {
+      "yearFrom": 2019,
+      "yearTo": 2021,
+      "label": "2019–2021 現代ナビタイマー",
+      "whyItMatters": "43mm／46mm 等。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "B01 発表。"
+    },
+    {
+      "yearFrom": 2022,
+      "yearTo": 2026,
+      "label": "2022– 現行",
+      "whyItMatters": "B01 発表。",
+      "delta": {
+        "added": [
+          "B01 キャリバー（インハウス）",
+          "Navitimer 01 等",
+          "43mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "43mm／46mm 等。"
+    }
+  ],
+  "ms-chronomat-1": [
+    {
+      "yearFrom": 1984,
+      "yearTo": 1984,
+      "label": "1984 オリジン",
+      "whyItMatters": "F1 ワールドチャンピオンとの結びつきでクロノマットを復活。ブライトリングのスポーツクロノの中心に。",
+      "delta": {
+        "added": [
+          "Chronomat 復活"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "F1連携で復活したスポーツクロノ。"
+    },
+    {
+      "yearFrom": 1985,
+      "yearTo": 1987,
+      "label": "1985–1987 オリジン",
+      "whyItMatters": "F1 ワールドチャンピオンとの結びつきでクロノマットを復活。ブライトリングのスポーツクロノの中心に。",
+      "delta": {
+        "added": [
+          "Chronomat 復活",
+          "F1 ワールドチャンピオン連携",
+          "ルーラーベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "F1連携で復活したスポーツクロノ。"
+    }
+  ],
+  "ms-chronomat-2": [
+    {
+      "yearFrom": 1988,
+      "yearTo": 1988,
+      "label": "1988 オリジン",
+      "whyItMatters": "Chronomat 復活。",
+      "delta": {
+        "added": [
+          "Chronomat 復活",
+          "F1 ワールドチャンピオン連携",
+          "ルーラーベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "F1 ワールドチャンピオン連携。"
+    },
+    {
+      "yearFrom": 1989,
+      "yearTo": 1991,
+      "label": "1989–1991 オリジン",
+      "whyItMatters": "Chronomat 復活。",
+      "delta": {
+        "added": [
+          "Chronomat 復活",
+          "F1 ワールドチャンピオン連携",
+          "ルーラーベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "F1 ワールドチャンピオン連携。"
+    }
+  ],
+  "ms-chronomat-3": [
+    {
+      "yearFrom": 1992,
+      "yearTo": 1992,
+      "label": "1992 オリジン",
+      "whyItMatters": "F1 ワールドチャンピオン連携。",
+      "delta": {
+        "added": [
+          "Chronomat 復活",
+          "F1 ワールドチャンピオン連携",
+          "ルーラーベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Chronomat 復活。"
+    },
+    {
+      "yearFrom": 1993,
+      "yearTo": 1995,
+      "label": "1993–1995 オリジン",
+      "whyItMatters": "F1 ワールドチャンピオン連携。",
+      "delta": {
+        "added": [
+          "Chronomat 復活",
+          "F1 ワールドチャンピオン連携",
+          "ルーラーベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Chronomat 復活。"
+    }
+  ],
+  "ms-chronomat-4": [
+    {
+      "yearFrom": 1996,
+      "yearTo": 1997,
+      "label": "1996–1997 オリジン",
+      "whyItMatters": "ルーラーベゼル。",
+      "delta": {
+        "added": [
+          "Chronomat 復活",
+          "F1 ワールドチャンピオン連携",
+          "ルーラーベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "F1 ワールドチャンピオンとの結びつきでクロノマットを復活。ブライトリングのスポーツクロノの中心に。"
+    },
+    {
+      "yearFrom": 1998,
+      "yearTo": 2000,
+      "label": "1998–2000 オリジン",
+      "whyItMatters": "ルーラーベゼル。",
+      "delta": {
+        "added": [
+          "Chronomat 復活",
+          "F1 ワールドチャンピオン連携",
+          "ルーラーベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "F1 ワールドチャンピオンとの結びつきでクロノマットを復活。ブライトリングのスポーツクロノの中心に。"
+    }
+  ],
+  "ms-chronomat-5": [
+    {
+      "yearFrom": 2000,
+      "yearTo": 2001,
+      "label": "2000–2001 現代クロノマット",
+      "whyItMatters": "B01 インハウスムーブと44mm ケース。F1 連携を継承した現行クロノマットの定番ライン。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "B01と44mmの定番ライン。"
+    },
+    {
+      "yearFrom": 2002,
+      "yearTo": 2005,
+      "label": "2002–2005 現代クロノマット",
+      "whyItMatters": "B01 インハウスムーブと44mm ケース。F1 連携を継承した現行クロノマットの定番ライン。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "B01と44mmの定番ライン。"
+    }
+  ],
+  "ms-chronomat-6": [
+    {
+      "yearFrom": 2006,
+      "yearTo": 2007,
+      "label": "2006–2007 現代クロノマット",
+      "whyItMatters": "B01 キャリバー。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "44mm 等。"
+    },
+    {
+      "yearFrom": 2008,
+      "yearTo": 2011,
+      "label": "2008–2011 現代クロノマット",
+      "whyItMatters": "B01 キャリバー。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "44mm 等。"
+    }
+  ],
+  "ms-chronomat-7": [
+    {
+      "yearFrom": 2012,
+      "yearTo": 2013,
+      "label": "2012–2013 現代クロノマット",
+      "whyItMatters": "44mm 等。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "B01 キャリバー。"
+    },
+    {
+      "yearFrom": 2014,
+      "yearTo": 2017,
+      "label": "2014–2017 現代クロノマット",
+      "whyItMatters": "44mm 等。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "B01 キャリバー。"
+    }
+  ],
+  "ms-chronomat-8": [
+    {
+      "yearFrom": 2018,
+      "yearTo": 2019,
+      "label": "2018–2019 現代クロノマット",
+      "whyItMatters": "F1 連携継続。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "B01 インハウスムーブと44mm ケース。F1 連携を継承した現行クロノマットの定番ライン。"
+    },
+    {
+      "yearFrom": 2020,
+      "yearTo": 2021,
+      "label": "2020–2021 現代クロノマット",
+      "whyItMatters": "F1 連携継続。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "B01 インハウスムーブと44mm ケース。F1 連携を継承した現行クロノマットの定番ライン。"
+    },
+    {
+      "yearFrom": 2022,
+      "yearTo": 2026,
+      "label": "2022– 現行",
+      "whyItMatters": "コレクション展開上の一区切り。",
+      "delta": {
+        "added": [
+          "B01 キャリバー",
+          "44mm 等",
+          "F1 連携継続"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "F1 連携継続。"
+    }
+  ],
+  "ms-superocean-1": [
+    {
+      "yearFrom": 1957,
+      "yearTo": 1958,
+      "label": "1957–1958 初期スーパーオーシャン",
+      "whyItMatters": "ブライトリングのダイバー向け高防水ラインとして誕生。200m 防水でプロ・アマに支持。",
+      "delta": {
+        "added": [
+          "Superocean 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "高防水ダイバーラインの誕生期。"
+    },
+    {
+      "yearFrom": 1959,
+      "yearTo": 1961,
+      "label": "1959–1961 初期スーパーオーシャン",
+      "whyItMatters": "ブライトリングのダイバー向け高防水ラインとして誕生。200m 防水でプロ・アマに支持。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "高防水ダイバーラインの誕生期。"
+    }
+  ],
+  "ms-superocean-2": [
+    {
+      "yearFrom": 1962,
+      "yearTo": 1963,
+      "label": "1962–1963 初期スーパーオーシャン",
+      "whyItMatters": "Superocean 発売。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ダイバー専用ライン。"
+    },
+    {
+      "yearFrom": 1964,
+      "yearTo": 1966,
+      "label": "1964–1966 初期スーパーオーシャン",
+      "whyItMatters": "Superocean 発売。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ダイバー専用ライン。"
+    }
+  ],
+  "ms-superocean-3": [
+    {
+      "yearFrom": 1967,
+      "yearTo": 1968,
+      "label": "1967–1968 初期スーパーオーシャン",
+      "whyItMatters": "ダイバー専用ライン。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Superocean 発売。"
+    },
+    {
+      "yearFrom": 1969,
+      "yearTo": 1971,
+      "label": "1969–1971 初期スーパーオーシャン",
+      "whyItMatters": "ダイバー専用ライン。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Superocean 発売。"
+    }
+  ],
+  "ms-superocean-4": [
+    {
+      "yearFrom": 1972,
+      "yearTo": 1973,
+      "label": "1972–1973 初期スーパーオーシャン",
+      "whyItMatters": "仕様・デザインの更新がみられる時期。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "ブライトリングのダイバー向け高防水ラインとして誕生。200m 防水でプロ・アマに支持。"
+    },
+    {
+      "yearFrom": 1974,
+      "yearTo": 1975,
+      "label": "1974–1975 初期スーパーオーシャン",
+      "whyItMatters": "モデル展開のうえでの一区切り。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "ブライトリングのダイバー向け高防水ラインとして誕生。200m 防水でプロ・アマに支持。"
+    },
+    {
+      "yearFrom": 1976,
+      "yearTo": 1980,
+      "label": "1976–1980 初期スーパーオーシャン",
+      "whyItMatters": "この年代の代表的な変更点。",
+      "delta": {
+        "added": [
+          "Superocean 発売",
+          "200m 防水",
+          "ダイバー専用ライン"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "この時期の代表的な仕様・展開。"
+    }
+  ],
+  "ms-superocean-5": [
+    {
+      "yearFrom": 1980,
+      "yearTo": 1982,
+      "label": "1980–1982 現代スーパーオーシャン",
+      "whyItMatters": "多様な防水深度・サイズを展開。Superocean Heritage 等でレトロと現行の両軸。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Heritageなど多様な防水・サイズ。"
+    },
+    {
+      "yearFrom": 1983,
+      "yearTo": 1985,
+      "label": "1983–1985 現代スーパーオーシャン",
+      "whyItMatters": "多様な防水深度・サイズを展開。Superocean Heritage 等でレトロと現行の両軸。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Heritageなど多様な防水・サイズ。"
+    },
+    {
+      "yearFrom": 1986,
+      "yearTo": 1990,
+      "label": "1986–1990 現代スーパーオーシャン",
+      "whyItMatters": "多様な防水（200m〜2000m）。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Superocean Heritage。"
+    }
+  ],
+  "ms-superocean-6": [
+    {
+      "yearFrom": 1991,
+      "yearTo": 1993,
+      "label": "1991–1993 現代スーパーオーシャン",
+      "whyItMatters": "多様な防水（200m〜2000m）。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Superocean Heritage。"
+    },
+    {
+      "yearFrom": 1994,
+      "yearTo": 1996,
+      "label": "1994–1996 現代スーパーオーシャン",
+      "whyItMatters": "Superocean Heritage。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "多様な防水（200m〜2000m）。"
+    },
+    {
+      "yearFrom": 1997,
+      "yearTo": 2001,
+      "label": "1997–2001 現代スーパーオーシャン",
+      "whyItMatters": "Superocean Heritage。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "多様な防水（200m〜2000m）。"
+    }
+  ],
+  "ms-superocean-7": [
+    {
+      "yearFrom": 2002,
+      "yearTo": 2004,
+      "label": "2002–2004 現代スーパーオーシャン",
+      "whyItMatters": "42mm／44mm／46mm 等。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "多様な防水深度・サイズを展開。Superocean Heritage 等でレトロと現行の両軸。"
+    },
+    {
+      "yearFrom": 2005,
+      "yearTo": 2007,
+      "label": "2005–2007 現代スーパーオーシャン",
+      "whyItMatters": "42mm／44mm／46mm 等。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "多様な防水深度・サイズを展開。Superocean Heritage 等でレトロと現行の両軸。"
+    },
+    {
+      "yearFrom": 2008,
+      "yearTo": 2012,
+      "label": "2008–2012 現代スーパーオーシャン",
+      "whyItMatters": "ムーブメント・ケース等の仕様が区別される時期。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "42mm／44mm／46mm 等。"
+    }
+  ],
+  "ms-superocean-8": [
+    {
+      "yearFrom": 2013,
+      "yearTo": 2016,
+      "label": "2013–2016 現代スーパーオーシャン",
+      "whyItMatters": "収集家が区別するうえでの一区切り。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "42mm／44mm／46mm 等。"
+    },
+    {
+      "yearFrom": 2017,
+      "yearTo": 2020,
+      "label": "2017–2020 現代スーパーオーシャン",
+      "whyItMatters": "この時期の代表的な仕様・モデル展開。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "デザイン・ムーブ・仕様の更新。"
+    },
+    {
+      "yearFrom": 2021,
+      "yearTo": 2026,
+      "label": "2021– 現行",
+      "whyItMatters": "デザイン・ムーブ・仕様の更新が行われた区切り。",
+      "delta": {
+        "added": [
+          "多様な防水（200m〜2000m）",
+          "Superocean Heritage",
+          "42mm／44mm／46mm 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "モデル展開上の一区切り。"
+    }
+  ],
+  "ms-datejust-1": [
+    {
+      "yearFrom": 1945,
+      "yearTo": 1946,
+      "label": "1945–1946 初期デイトジャスト",
+      "whyItMatters": "世界初の日付が窓で変わるオイスター。36mm とフルートベゼルでドレスと日常の両方の定番に。",
+      "delta": {
+        "added": [
+          "Datejust 発売"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "日付窓付きオイスターの代表。"
+    },
+    {
+      "yearFrom": 1947,
+      "yearTo": 1948,
+      "label": "1947–1948 初期デイトジャスト",
+      "whyItMatters": "世界初の日付が窓で変わるオイスター。36mm とフルートベゼルでドレスと日常の両方の定番に。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "日付窓付きオイスターの代表。"
+    },
+    {
+      "yearFrom": 1949,
+      "yearTo": 1952,
+      "label": "1949–1952 初期デイトジャスト",
+      "whyItMatters": "Datejust 発売。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "日付窓（マグニフィケーション）。"
+    }
+  ],
+  "ms-datejust-2": [
+    {
+      "yearFrom": 1953,
+      "yearTo": 1954,
+      "label": "1953–1954 初期デイトジャスト",
+      "whyItMatters": "Datejust 発売。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "日付窓（マグニフィケーション）。"
+    },
+    {
+      "yearFrom": 1955,
+      "yearTo": 1956,
+      "label": "1955–1956 初期デイトジャスト",
+      "whyItMatters": "日付窓（マグニフィケーション）。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Datejust 発売。"
+    },
+    {
+      "yearFrom": 1957,
+      "yearTo": 1960,
+      "label": "1957–1960 初期デイトジャスト",
+      "whyItMatters": "日付窓（マグニフィケーション）。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Datejust 発売。"
+    }
+  ],
+  "ms-datejust-3": [
+    {
+      "yearFrom": 1961,
+      "yearTo": 1963,
+      "label": "1961–1963 初期デイトジャスト",
+      "whyItMatters": "36mm・フルートベゼル。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "世界初の日付が窓で変わるオイスター。36mm とフルートベゼルでドレスと日常の両方の定番に。"
+    },
+    {
+      "yearFrom": 1964,
+      "yearTo": 1966,
+      "label": "1964–1966 初期デイトジャスト",
+      "whyItMatters": "36mm・フルートベゼル。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "世界初の日付が窓で変わるオイスター。36mm とフルートベゼルでドレスと日常の両方の定番に。"
+    },
+    {
+      "yearFrom": 1967,
+      "yearTo": 1970,
+      "label": "1967–1970 初期デイトジャスト",
+      "whyItMatters": "コレクション展開上の一区切り。",
+      "delta": {
+        "added": [
+          "Datejust 発売",
+          "日付窓（マグニフィケーション）",
+          "36mm・フルートベゼル"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "36mm・フルートベゼル。"
+    }
+  ],
+  "ms-datejust-4": [
+    {
+      "yearFrom": 1970,
+      "yearTo": 1972,
+      "label": "1970–1972 進化期",
+      "whyItMatters": "サイズ・素材（ステンレス／ゴールド／ツートン）のバリエーション拡大。日付表示の定番モデルとして定着。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "サイズ・素材のバリエーション拡大。"
+    },
+    {
+      "yearFrom": 1973,
+      "yearTo": 1975,
+      "label": "1973–1975 進化期",
+      "whyItMatters": "サイズ・素材（ステンレス／ゴールド／ツートン）のバリエーション拡大。日付表示の定番モデルとして定着。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "サイズ・素材のバリエーション拡大。"
+    },
+    {
+      "yearFrom": 1976,
+      "yearTo": 1979,
+      "label": "1976–1979 進化期",
+      "whyItMatters": "サイズ・素材のバリエーション。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "日付表示定番化。"
+    }
+  ],
+  "ms-datejust-5": [
+    {
+      "yearFrom": 1980,
+      "yearTo": 1982,
+      "label": "1980–1982 進化期",
+      "whyItMatters": "サイズ・素材のバリエーション。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "日付表示定番化。"
+    },
+    {
+      "yearFrom": 1983,
+      "yearTo": 1985,
+      "label": "1983–1985 進化期",
+      "whyItMatters": "日付表示定番化。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "サイズ・素材のバリエーション。"
+    },
+    {
+      "yearFrom": 1986,
+      "yearTo": 1989,
+      "label": "1986–1989 進化期",
+      "whyItMatters": "日付表示定番化。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "サイズ・素材のバリエーション。"
+    }
+  ],
+  "ms-datejust-6": [
+    {
+      "yearFrom": 1990,
+      "yearTo": 1992,
+      "label": "1990–1992 進化期",
+      "whyItMatters": "サイバーデイト等。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "サイズ・素材（ステンレス／ゴールド／ツートン）のバリエーション拡大。日付表示の定番モデルとして定着。"
+    },
+    {
+      "yearFrom": 1993,
+      "yearTo": 1995,
+      "label": "1993–1995 進化期",
+      "whyItMatters": "サイバーデイト等。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "サイズ・素材（ステンレス／ゴールド／ツートン）のバリエーション拡大。日付表示の定番モデルとして定着。"
+    },
+    {
+      "yearFrom": 1996,
+      "yearTo": 2000,
+      "label": "1996–2000 進化期",
+      "whyItMatters": "仕様・デザインの更新がみられる時期。",
+      "delta": {
+        "added": [
+          "サイズ・素材のバリエーション",
+          "日付表示定番化",
+          "サイバーデイト等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "サイバーデイト等。"
+    }
+  ],
+  "ms-datejust-7": [
+    {
+      "yearFrom": 2000,
+      "yearTo": 2001,
+      "label": "2000–2001 現代デイトジャスト",
+      "whyItMatters": "36mm／41mm 現行ライン。フルートベゼルとオイスターフレックスでロレックスの代表的日付モデル。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "36/41mmとフルートベゼルの定番。"
+    },
+    {
+      "yearFrom": 2002,
+      "yearTo": 2003,
+      "label": "2002–2003 現代デイトジャスト",
+      "whyItMatters": "36mm／41mm 現行ライン。フルートベゼルとオイスターフレックスでロレックスの代表的日付モデル。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "36/41mmとフルートベゼルの定番。"
+    },
+    {
+      "yearFrom": 2004,
+      "yearTo": 2007,
+      "label": "2004–2007 現代デイトジャスト",
+      "whyItMatters": "41mm／36mm 現行。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "フルートベゼル。"
+    }
+  ],
+  "ms-datejust-8": [
+    {
+      "yearFrom": 2008,
+      "yearTo": 2009,
+      "label": "2008–2009 現代デイトジャスト",
+      "whyItMatters": "41mm／36mm 現行。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "フルートベゼル。"
+    },
+    {
+      "yearFrom": 2010,
+      "yearTo": 2011,
+      "label": "2010–2011 現代デイトジャスト",
+      "whyItMatters": "フルートベゼル。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "41mm／36mm 現行。"
+    },
+    {
+      "yearFrom": 2012,
+      "yearTo": 2015,
+      "label": "2012–2015 現代デイトジャスト",
+      "whyItMatters": "フルートベゼル。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "41mm／36mm 現行。"
+    }
+  ],
+  "ms-datejust-9": [
+    {
+      "yearFrom": 2016,
+      "yearTo": 2018,
+      "label": "2016–2018 現代デイトジャスト",
+      "whyItMatters": "Cal.3235 等。",
+      "delta": {
+        "added": [
+          "Datejust 41 等拡充"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 1,
+      "heroSubline": "Datejust 41 等拡充。"
+    },
+    {
+      "yearFrom": 2019,
+      "yearTo": 2021,
+      "label": "2019–2021 現代デイトジャスト",
+      "whyItMatters": "Cal.3235 等。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 2,
+      "heroSubline": "Datejust 41 等拡充。"
+    },
+    {
+      "yearFrom": 2022,
+      "yearTo": 2026,
+      "label": "2022– 現行",
+      "whyItMatters": "Datejust 41 等拡充。",
+      "delta": {
+        "added": [
+          "41mm／36mm 現行",
+          "フルートベゼル",
+          "Cal.3235 等"
+        ],
+        "changed": [
+          "デザイン・ムーブ・仕様の更新"
+        ],
+        "removed": []
+      },
+      "sortOrder": 3,
+      "heroSubline": "Cal.3235 等。"
+    }
+  ]
+}

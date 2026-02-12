@@ -1,0 +1,51 @@
+{
+  "brands": [
+    {
+      "id": "brand-tag-heuer",
+      "slug": "tag-heuer",
+      "name": "TAG Heuer",
+      "wikipediaTitle": "TAG_Heuer"
+    },
+    {
+      "id": "brand-omega",
+      "slug": "omega",
+      "name": "Omega",
+      "wikipediaTitle": "Omega_SA"
+    },
+    {
+      "id": "brand-zenith",
+      "slug": "zenith",
+      "name": "Zenith",
+      "wikipediaTitle": "Zenith_(watchmaker)"
+    },
+    {
+      "id": "brand-breitling",
+      "slug": "breitling",
+      "name": "Breitling",
+      "wikipediaTitle": "Breitling_SA"
+    },
+    {
+      "id": "brand-rolex",
+      "slug": "rolex",
+      "name": "Rolex",
+      "wikipediaTitle": "Rolex"
+    }
+  ],
+  "collections": [
+    { "brandId": "brand-tag-heuer", "slug": "carrera", "name": "Carrera", "wikipediaTitle": "TAG_Heuer_Carrera" },
+    { "brandId": "brand-tag-heuer", "slug": "monaco", "name": "Monaco", "wikipediaTitle": "TAG_Heuer_Monaco" },
+    { "brandId": "brand-tag-heuer", "slug": "autavia", "name": "Autavia", "wikipediaTitle": "Heuer_Autavia" },
+    { "brandId": "brand-omega", "slug": "speedmaster", "name": "Speedmaster", "wikipediaTitle": "Omega_Speedmaster", "wikidataQidOverride": "Q1414495" },
+    { "brandId": "brand-omega", "slug": "seamaster", "name": "Seamaster", "wikipediaTitle": "Omega_Seamaster" },
+    { "brandId": "brand-omega", "slug": "constellation", "name": "Constellation", "wikipediaTitle": "Omega_Constellation" },
+    { "brandId": "brand-zenith", "slug": "el-primero", "name": "El Primero", "wikipediaTitle": "Zenith_El_Primero" },
+    { "brandId": "brand-zenith", "slug": "defy", "name": "Defy", "wikipediaTitle": "Zenith_Defy" },
+    { "brandId": "brand-zenith", "slug": "pilot", "name": "Pilot", "wikipediaTitle": "Zenith_Pilot_(watch)" },
+    { "brandId": "brand-breitling", "slug": "navitimer", "name": "Navitimer", "wikipediaTitle": "Breitling_Navitimer" },
+    { "brandId": "brand-breitling", "slug": "chronomat", "name": "Chronomat", "wikipediaTitle": "Breitling_Chronomat" },
+    { "brandId": "brand-breitling", "slug": "superocean", "name": "Superocean", "wikipediaTitle": "Breitling_Superocean" },
+    { "brandId": "brand-rolex", "slug": "daytona", "name": "Daytona", "wikipediaTitle": "Rolex_Daytona" },
+    { "brandId": "brand-rolex", "slug": "submariner", "name": "Submariner", "wikipediaTitle": "Rolex_Submariner" },
+    { "brandId": "brand-rolex", "slug": "datejust", "name": "Datejust", "wikipediaTitle": "Rolex_Datejust" }
+  ]
+}

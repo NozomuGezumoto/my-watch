@@ -1,0 +1,206 @@
+{
+  "description": "Wikipedia intro extracts per collection, mapped to era slugs for hero content.",
+  "byCollection": {
+    "carrera": {
+      "error": "missing or empty extract",
+      "title": "TAG_Heuer_Carrera",
+      "eras": {}
+    },
+    "monaco": {
+      "title": "TAG_Heuer_Monaco",
+      "extract": "The TAG Heuer Monaco, initially introduced by Heuer in 1969, is a line of automatic chronograph wristwatches created to commemorate the Monaco Grand Prix. Notable for its distinctive square case, the Monaco was among the first of its kind in this design, following Rolex's introduction of a square chronograph in 1940.\nThe watch gained significant recognition after Steve McQueen wore it in the 1971 film Le Mans, which, over time, has closely associated it with the actor. Despite being phased out i",
+      "sentences": 6,
+      "eras": {
+        "debut": {
+          "summary": "The TAG Heuer Monaco, initially introduced by Heuer in 1969, is a line of automatic chronograph wristwatches created to commemorate the Monaco Grand Prix.",
+          "heroSubline": "The TAG Heuer Monaco, initially introduced by Heuer in 1969, is a line of…",
+          "source": "Wikipedia intro"
+        },
+        "quartz-period": {
+          "summary": "Notable for its distinctive square case, the Monaco was among the first of its kind in this design, following Rolex's introduction of a square chronograph in 1940.",
+          "heroSubline": "Notable for its distinctive square case, the Monaco was among the first of its…",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "The watch gained significant recognition after Steve McQueen wore it in the 1971 film Le Mans, which, over time, has closely associated it with the actor.",
+          "heroSubline": "The watch gained significant recognition after Steve McQueen wore it in the…",
+          "source": "Wikipedia intro"
+        }
+      }
+    },
+    "autavia": {
+      "error": "missing or empty extract",
+      "title": "Heuer_Autavia",
+      "eras": {}
+    },
+    "speedmaster": {
+      "title": "Omega_Speedmaster",
+      "extract": "Omega Speedmaster is a line of luxury chronograph wristwatches produced by Omega SA.  While chronographs have existed since the late 1800s,  Omega first introduced this line of chronographs in 1957.  Since then, many different chronograph movements have been marketed under the Speedmaster name. Astronaut Walter Schirra was the first person to wear one in space in 1962 during his Mercury-Atlas 8 mission. The manual winding Speedmaster Professional or \"Moonwatch\" is the best-known and longest-prod",
+      "sentences": 7,
+      "eras": {
+        "caliber-321": {
+          "summary": "Omega Speedmaster is a line of luxury chronograph wristwatches produced by Omega SA.",
+          "heroSubline": "Omega Speedmaster is a line of luxury chronograph wristwatches produced by…",
+          "source": "Wikipedia intro"
+        },
+        "861-1861": {
+          "summary": "While chronographs have existed since the late 1800s, Omega first introduced this line of chronographs in 1957.",
+          "heroSubline": "While chronographs have existed since the late 1800s, Omega first introduced…",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "Since then, many different chronograph movements have been marketed under the Speedmaster name.",
+          "heroSubline": "Since then, many different chronograph movements have been marketed under the…",
+          "source": "Wikipedia intro"
+        }
+      }
+    },
+    "seamaster": {
+      "title": "Omega_Seamaster",
+      "extract": "The Omega Seamaster is a line of automatic winding mechanical diving watches from Omega with a history that can be traced back to the original water-resistant dress-style watch released in 1948. The Seamaster collection is perhaps best known today for the Seamaster Diver Professional 300m model that has been worn in the James Bond movie franchise since 1995. Originally conceived as a dressy, water-resistant timepiece, the Omega Seamaster has evolved to a robust sports watch line, typically with ",
+      "sentences": 6,
+      "eras": {
+        "early": {
+          "summary": "The Omega Seamaster is a line of automatic winding mechanical diving watches from Omega with a history that can be traced back to the original water-resistant dress-style watch released in 1948.",
+          "heroSubline": "The Omega Seamaster is a line of automatic winding mechanical diving watches…",
+          "source": "Wikipedia intro"
+        },
+        "diver-line": {
+          "summary": "The Seamaster collection is perhaps best known today for the Seamaster Diver Professional 300m model that has been worn in the James Bond movie franchise since 1995.",
+          "heroSubline": "The Seamaster collection is perhaps best known today for the Seamaster Diver…",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "Originally conceived as a dressy, water-resistant timepiece, the Omega Seamaster has evolved to a robust sports watch line, typically with a stainless steel case, robust water resistance, and an official chronometer-certified movement within.",
+          "heroSubline": "Originally conceived as a dressy, water-resistant timepiece, the Omega…",
+          "source": "Wikipedia intro"
+        }
+      }
+    },
+    "constellation": {
+      "error": "missing or empty extract",
+      "title": "Omega_Constellation",
+      "eras": {}
+    },
+    "el-primero": {
+      "error": "missing or empty extract",
+      "title": "Zenith_El_Primero",
+      "eras": {}
+    },
+    "defy": {
+      "error": "missing or empty extract",
+      "title": "Zenith_Defy",
+      "eras": {}
+    },
+    "pilot": {
+      "error": "missing or empty extract",
+      "title": "Zenith_Pilot_(watch)",
+      "eras": {}
+    },
+    "navitimer": {
+      "title": "Breitling_Navitimer",
+      "extract": "The Breitling Navitimer is a watch that was released in 1954 in Switzerland by Breitling SA. Since then it has been one of the best selling watches produced by Breitling.",
+      "sentences": 2,
+      "eras": {
+        "slide-rule": {
+          "summary": "The Breitling Navitimer is a watch that was released in 1954 in Switzerland by Breitling SA.",
+          "heroSubline": "The Breitling Navitimer is a watch that was released in 1954 in Switzerland by…",
+          "source": "Wikipedia intro"
+        },
+        "evolution": {
+          "summary": "Since then it has been one of the best selling watches produced by Breitling.",
+          "heroSubline": "Since then it has been one of the best selling watches produced by Breitling.",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "The Breitling Navitimer is a watch that was released in 1954 in Switzerland by Breitling SA.",
+          "heroSubline": "The Breitling Navitimer is a watch that was released in 1954 in Switzerland by…",
+          "source": "Wikipedia intro"
+        }
+      }
+    },
+    "chronomat": {
+      "title": "Breitling_Chronomat",
+      "extract": "The Breitling Chronomat was initially released in 1941 in Switzerland by Breitling SA. Since then it has been one of the best selling watches produced by Breitling. Its set of four bezel rider tabs became a Breitling signature design detail, seen as well in the  Breitling Colt. Chronomat is a trademark and collection line   first released in 1942, and is one of the company's best-selling models.",
+      "sentences": 4,
+      "eras": {
+        "origins": {
+          "summary": "The Breitling Chronomat was initially released in 1941 in Switzerland by Breitling SA.",
+          "heroSubline": "The Breitling Chronomat was initially released in 1941 in Switzerland by…",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "Since then it has been one of the best selling watches produced by Breitling.",
+          "heroSubline": "Since then it has been one of the best selling watches produced by Breitling.",
+          "source": "Wikipedia intro"
+        }
+      }
+    },
+    "superocean": {
+      "title": "Breitling_Superocean",
+      "extract": "Breitling Superocean is a collection of luxury dive watches manufactured by independent watchmaker Breitling SA. The first SuperOcean was introduced in 1957,  and  had water resistance of 200m, while later models have  1,000m to 2,000m of water resistance.",
+      "sentences": 2,
+      "eras": {
+        "early": {
+          "summary": "Breitling Superocean is a collection of luxury dive watches manufactured by independent watchmaker Breitling SA.",
+          "heroSubline": "Breitling Superocean is a collection of luxury dive watches manufactured by…",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "The first SuperOcean was introduced in 1957, and had water resistance of 200m, while later models have 1,000m to 2,000m of water resistance.",
+          "heroSubline": "The first SuperOcean was introduced in 1957, and had water resistance of 200m,…",
+          "source": "Wikipedia intro"
+        }
+      }
+    },
+    "daytona": {
+      "error": "missing or empty extract",
+      "title": "Rolex_Daytona",
+      "eras": {}
+    },
+    "submariner": {
+      "title": "Rolex_Submariner",
+      "extract": "The Rolex Submariner is a line of sports watches designed for diving and manufactured by Rolex, resistant to water and corrosion. The first Submariner was introduced to the public in 1954 at the Basel Watch Fair. It was the first watch to be waterproof up to 100 metres (330 ft), although Blancpain's Fifty Fathoms watch, which was introduced in 1953, was certified to 94.5m (being fifty Fathoms). The Rolex Submariner is considered \"a classic among wristwatches\", manufactured by one of the world's ",
+      "sentences": 8,
+      "eras": {
+        "first-sub": {
+          "summary": "The Rolex Submariner is a line of sports watches designed for diving and manufactured by Rolex, resistant to water and corrosion.",
+          "heroSubline": "The Rolex Submariner is a line of sports watches designed for diving and…",
+          "source": "Wikipedia intro"
+        },
+        "5512-5513": {
+          "summary": "The first Submariner was introduced to the public in 1954 at the Basel Watch Fair.",
+          "heroSubline": "The first Submariner was introduced to the public in 1954 at the Basel Watch…",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "It was the first watch to be waterproof up to 100 metres (330 ft), although Blancpain's Fifty Fathoms watch, which was introduced in 1953, was certified to 94.5m (being fifty Fathoms).",
+          "heroSubline": "It was the first watch to be waterproof up to 100 metres (330 ft), although…",
+          "source": "Wikipedia intro"
+        }
+      }
+    },
+    "datejust": {
+      "title": "Rolex_Datejust",
+      "extract": "The Rolex Oyster Perpetual Datejust is a self-winding chronometer manufactured by Rolex.  Launched in 1945, the Datejust was the first self-winding chronometer wristwatch to indicate the date in a window on the dial. Today, it is available in a variety of sizes from 28mm to 41mm, in stainless steel, two-tone gold, and solid gold versions.",
+      "sentences": 3,
+      "eras": {
+        "early": {
+          "summary": "The Rolex Oyster Perpetual Datejust is a self-winding chronometer manufactured by Rolex.",
+          "heroSubline": "The Rolex Oyster Perpetual Datejust is a self-winding chronometer manufactured…",
+          "source": "Wikipedia intro"
+        },
+        "evolution": {
+          "summary": "Launched in 1945, the Datejust was the first self-winding chronometer wristwatch to indicate the date in a window on the dial.",
+          "heroSubline": "Launched in 1945, the Datejust was the first self-winding chronometer…",
+          "source": "Wikipedia intro"
+        },
+        "modern": {
+          "summary": "Today, it is available in a variety of sizes from 28mm to 41mm, in stainless steel, two-tone gold, and solid gold versions.",
+          "heroSubline": "Today, it is available in a variety of sizes from 28mm to 41mm, in stainless…",
+          "source": "Wikipedia intro"
+        }
+      }
+    }
+  }
+}

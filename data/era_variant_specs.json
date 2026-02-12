@@ -1,0 +1,73 @@
+{
+  "description": "Era ごとの Variant 仕様。見分け方・仕様スナップショットの元データ。コレクション別・Era slug キー。数値・キャリバー等は Wikipedia・ブランド公式・時計史の一般的なネット・文献情報に基づき、誰でも同様の出典で確認可能な範囲で記載。",
+  "carrera": {
+    "origins": { "movementType": "manual", "caliber": "Valjoux 72 系", "caseSizeMm": 36, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "タキメーター", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" },
+    "quartz-era": { "movementType": "quartz", "caliber": "クォーツ", "caseSizeMm": 38, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "ミネラル", "bezel": "タキメーター", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" },
+    "modern-revival": { "movementType": "automatic", "caliber": "Heuer 02 等", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "タキメーター", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" }
+  },
+  "monaco": {
+    "debut": { "movementType": "automatic", "caliber": "Cal.11 / 12", "caseSizeMm": 39, "caseMaterial": "ステンレス", "waterResistanceM": 30, "crystal": "アクリル", "bezel": "角型タキメーター", "braceletStrap": ["レザー"], "dialColor": "青" },
+    "quartz-period": { "movementType": "quartz", "caliber": "クォーツ", "caseSizeMm": 37, "caseMaterial": "ステンレス", "waterResistanceM": 30, "crystal": "ミネラル", "bezel": "角型", "braceletStrap": ["レザー"], "dialColor": "黒" },
+    "modern": { "movementType": "automatic", "caliber": "Cal.11 等", "caseSizeMm": 39, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "角型タキメーター", "braceletStrap": ["レザー", "メタル"], "dialColor": "青" }
+  },
+  "autavia": {
+    "first-era": { "movementType": "manual", "caliber": "Valjoux 72 系", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "タキメーター / 経過時間", "braceletStrap": ["レザー"], "dialColor": "黒" },
+    "revival": { "movementType": "automatic", "caliber": "Cal.5 等", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "タキメーター", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" }
+  },
+  "speedmaster": {
+    "caliber-321": { "movementType": "manual", "caliber": "321", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "ヘスカライト", "bezel": "タキメーター", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" },
+    "861-1861": { "movementType": "manual", "caliber": "861 / 1861", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "ヘスカライト", "bezel": "タキメーター", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" },
+    "modern": { "movementType": "manual", "caliber": "3861", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "サファイア", "bezel": "タキメーター", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" }
+  },
+  "seamaster": {
+    "early": { "movementType": "automatic", "caliber": "Cal.352 等", "caseSizeMm": 34, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "スムーズ", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "銀" },
+    "diver-line": { "movementType": "automatic", "caliber": "Cal.552 等", "caseSizeMm": 41, "caseMaterial": "ステンレス", "waterResistanceM": 300, "crystal": "サファイア", "bezel": "一方向回転", "braceletStrap": ["ステンレス"], "dialColor": "黒" },
+    "modern": { "movementType": "automatic", "caliber": "8800 等コアキシャル", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 300, "crystal": "サファイア", "bezel": "セラミック一方向", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" }
+  },
+  "constellation": {
+    "early": { "movementType": "automatic", "caliber": "Cal.354 等", "caseSizeMm": 35, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "スムーズ", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "銀" },
+    "quartz-manhattan": { "movementType": "quartz", "caliber": "クォーツ", "caseSizeMm": 36, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "サファイア", "bezel": "マンハッタン", "braceletStrap": ["ステンレス"], "dialColor": "銀" },
+    "modern": { "movementType": "automatic", "caliber": "8800 等", "caseSizeMm": 39, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "サファイア", "bezel": "半円", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "銀" }
+  },
+  "el-primero": {
+    "birth": { "movementType": "automatic", "caliber": "El Primero 3019", "caseSizeMm": 36, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "タキメーター", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" },
+    "survival": { "movementType": "automatic", "caliber": "El Primero 400", "caseSizeMm": 38, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "サファイア", "bezel": "タキメーター", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" },
+    "modern": { "movementType": "automatic", "caliber": "El Primero 3600 等", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "タキメーター", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" }
+  },
+  "defy": {
+    "original": { "movementType": "automatic", "caliber": "Cal.2562 等", "caseSizeMm": 37, "caseMaterial": "ステンレス", "waterResistanceM": 30, "crystal": "アクリル", "bezel": "角型", "braceletStrap": ["メタル"], "dialColor": "銀" },
+    "revival-modern": { "movementType": "automatic", "caliber": "El Primero 等", "caseSizeMm": 41, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "オクタゴナル", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "青" }
+  },
+  "pilot": {
+    "contemporary": { "movementType": "automatic", "caliber": "El Primero 693 等", "caseSizeMm": 45, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "タキメーター / 経過時間", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" }
+  },
+  "navitimer": {
+    "slide-rule": { "movementType": "manual", "caliber": "Venus 178 等", "caseSizeMm": 41, "caseMaterial": "ステンレス", "waterResistanceM": 30, "crystal": "アクリル", "bezel": "スライドルール（計算尺）", "braceletStrap": ["レザー"], "dialColor": "黒" },
+    "evolution": { "movementType": "automatic", "caliber": "Buren 等", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 30, "crystal": "ミネラル", "bezel": "スライドルール", "braceletStrap": ["レザー", "メタル"], "dialColor": "黒" },
+    "modern": { "movementType": "automatic", "caliber": "B01", "caseSizeMm": 43, "caseMaterial": "ステンレス", "waterResistanceM": 30, "crystal": "サファイア", "bezel": "スライドルール", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" }
+  },
+  "chronomat": {
+    "origins": { "movementType": "automatic", "caliber": "Valjoux 7750 系", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 200, "crystal": "サファイア", "bezel": "タキメーター・リューズガード", "braceletStrap": ["ステンレス"], "dialColor": "黒" },
+    "modern": { "movementType": "automatic", "caliber": "B01", "caseSizeMm": 44, "caseMaterial": "ステンレス", "waterResistanceM": 200, "crystal": "サファイア", "bezel": "タキメーター", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" }
+  },
+  "superocean": {
+    "early": { "movementType": "automatic", "caliber": "Cal.1001 等", "caseSizeMm": 42, "caseMaterial": "ステンレス", "waterResistanceM": 200, "crystal": "アクリル", "bezel": "一方向回転", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" },
+    "modern": { "movementType": "automatic", "caliber": "B17 等", "caseSizeMm": 44, "caseMaterial": "ステンレス", "waterResistanceM": 300, "crystal": "サファイア", "bezel": "セラミック一方向", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" }
+  },
+  "daytona": {
+    "manual-early": { "movementType": "manual", "caliber": "722-1 / 723-1", "caseSizeMm": 37, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "タキメーター", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" },
+    "manual-late": { "movementType": "manual", "caliber": "727", "caseSizeMm": 37, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "タキメーター / パルスニー", "braceletStrap": ["レザー", "ステンレス"], "dialColor": "黒" },
+    "zenith-era": { "movementType": "automatic", "caliber": "4030 (Zenith El Primero ベース)", "caseSizeMm": 40, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "タキメーター", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "黒" },
+    "in-house": { "movementType": "automatic", "caliber": "4130", "caseSizeMm": 40, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "セラミック / タキメーター", "braceletStrap": ["ステンレス", "オイスターフレックス"], "dialColor": "黒" }
+  },
+  "submariner": {
+    "first-sub": { "movementType": "automatic", "caliber": "1030", "caseSizeMm": 37, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "アクリル", "bezel": "一方向回転", "braceletStrap": ["ステンレス"], "dialColor": "黒" },
+    "5512-5513": { "movementType": "automatic", "caliber": "1520 / 1530", "caseSizeMm": 40, "caseMaterial": "ステンレス", "waterResistanceM": 200, "crystal": "アクリル", "bezel": "一方向回転", "braceletStrap": ["ステンレス"], "dialColor": "黒" },
+    "modern": { "movementType": "automatic", "caliber": "3235", "caseSizeMm": 41, "caseMaterial": "ステンレス", "waterResistanceM": 300, "crystal": "サファイア", "bezel": "セラミック一方向", "braceletStrap": ["ステンレス", "オイスター"], "dialColor": "黒" }
+  },
+  "datejust": {
+    "early": { "movementType": "automatic", "caliber": "Cal.446 / 736 等", "caseSizeMm": 36, "caseMaterial": "ステンレス", "waterResistanceM": 50, "crystal": "アクリル", "bezel": "フルート / スムーズ", "braceletStrap": ["ステンレス", "レザー"], "dialColor": "銀" },
+    "evolution": { "movementType": "automatic", "caliber": "3035 等", "caseSizeMm": 36, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "フルート", "braceletStrap": ["ステンレス", "ジュビリー"], "dialColor": "銀" },
+    "modern": { "movementType": "automatic", "caliber": "3235", "caseSizeMm": 41, "caseMaterial": "ステンレス", "waterResistanceM": 100, "crystal": "サファイア", "bezel": "フルート", "braceletStrap": ["ステンレス", "ジュビリー", "オイスター"], "dialColor": "銀" }
+  }
+}

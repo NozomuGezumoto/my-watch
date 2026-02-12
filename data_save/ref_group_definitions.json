@@ -1,0 +1,7468 @@
+{
+  "description": "Release ごとの RefGroup。label は「素材・ベゼル・ブレス」など一般の人が違いがわかる表現。refCode で型番を保持。",
+  "rel-ms-daytona-1-1": [
+    {
+      "refCode": "6239",
+      "label": "ステンレス・メタル/レザー（6239）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6241",
+      "label": "ステンレス・メタル/レザー（6241）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-1-2": [
+    {
+      "refCode": "6239",
+      "label": "ステンレス・メタル/レザー（6239）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6241",
+      "label": "ステンレス・メタル/レザー（6241）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-1-3": [
+    {
+      "refCode": "6239",
+      "label": "ステンレス・メタル/レザー（6239）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6241",
+      "label": "ステンレス・メタル/レザー（6241）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-1-4": [
+    {
+      "refCode": "6239",
+      "label": "ステンレス・メタル/レザー（6239）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6241",
+      "label": "ステンレス・メタル/レザー（6241）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-2-1": [
+    {
+      "refCode": "6239",
+      "label": "ステンレス・メタル/レザー（6239）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6241",
+      "label": "ステンレス・メタル/レザー（6241）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-2-2": [
+    {
+      "refCode": "6239",
+      "label": "ステンレス・メタル/レザー（6239）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6241",
+      "label": "ステンレス・メタル/レザー（6241）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-3-1": [
+    {
+      "refCode": "6263",
+      "label": "パルスニーベゼル（盛り上がり付き）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "パルスニー",
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6265",
+      "label": "フラットなタキメーターベゼル",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-3-2": [
+    {
+      "refCode": "6263",
+      "label": "パルスニーベゼル（盛り上がり付き）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "パルスニー",
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6265",
+      "label": "フラットなタキメーターベゼル",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-3-3": [
+    {
+      "refCode": "6263",
+      "label": "パルスニーベゼル（盛り上がり付き）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "パルスニー"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6265",
+      "label": "フラットなタキメーターベゼル",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-4-1": [
+    {
+      "refCode": "6263",
+      "label": "パルスニーベゼル（盛り上がり付き）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "パルスニー"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6265",
+      "label": "フラットなタキメーターベゼル",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-4-2": [
+    {
+      "refCode": "6263",
+      "label": "パルスニーベゼル（盛り上がり付き）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "パルスニー"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6265",
+      "label": "フラットなタキメーターベゼル",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-5-1": [
+    {
+      "refCode": "16520",
+      "label": "ステンレス/ゴールド・タキメーター（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-5-2": [
+    {
+      "refCode": "16520",
+      "label": "ステンレス/ゴールド・タキメーター（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-6-1": [
+    {
+      "refCode": "16520",
+      "label": "ステンレス/ゴールド・タキメーター（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-6-2": [
+    {
+      "refCode": "16520",
+      "label": "ステンレス/ゴールド・タキメーター（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-7-1": [
+    {
+      "refCode": "116520",
+      "label": "ステンレス・金属ベゼル（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-7-2": [
+    {
+      "refCode": "116520",
+      "label": "ステンレス・金属ベゼル（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-7-3": [
+    {
+      "refCode": "116520",
+      "label": "ステンレス・金属ベゼル（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-8-1": [
+    {
+      "refCode": "116520",
+      "label": "ステンレス・金属ベゼル（黒/白ダイヤル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス",
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-8-2": [
+    {
+      "refCode": "116500LN",
+      "label": "ステンレス・セラミックベゼル（黒/白）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック黒",
+          "セラミック白"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    },
+    {
+      "refCode": "116520",
+      "label": "ステンレス・金属ベゼル（黒/白ダイヤル）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-8-3": [
+    {
+      "refCode": "116500LN",
+      "label": "ステンレス・セラミックベゼル（黒/白）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック黒",
+          "セラミック白"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    },
+    {
+      "refCode": "116518LN",
+      "label": "イエローゴールド・Oysterflex（ゴム風ブレス）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "イエローゴールド"
+        ],
+        "bezels": [
+          "セラミック"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "Oysterflex"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-daytona-8-4": [
+    {
+      "refCode": "126500LN",
+      "label": "ステンレス・メタルブレス（黒/白セラミックベゼル）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック黒",
+          "セラミック白"
+        ],
+        "dials": [
+          "黒",
+          "白"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    },
+    {
+      "refCode": "126505",
+      "label": "ゴールド・Oysterflex／メタル（イエローゴールド・エバーローズ）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "イエローゴールド",
+          "Everose"
+        ],
+        "bezels": [
+          "セラミック"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "Oysterflex",
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-1-1": [
+    {
+      "refCode": "6204",
+      "label": "ステンレス・黒ベゼル（メタル/レザー）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-1-2": [
+    {
+      "refCode": "6204",
+      "label": "ステンレス・黒ベゼル（メタル/レザー）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    },
+    {
+      "refCode": "6200",
+      "label": "ステンレス・メタルブレスのみ",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-2-1": [
+    {
+      "refCode": "6204",
+      "label": "ステンレス・黒ベゼル（メタル/レザー）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-2-2": [
+    {
+      "refCode": "6204",
+      "label": "ステンレス・黒ベゼル（メタル/レザー）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-3-1": [
+    {
+      "refCode": "6538",
+      "label": "ステンレス・黒ベゼル（初代系）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-4-1": [
+    {
+      "refCode": "5512",
+      "label": "ステンレス・黒ベゼル（日付あり）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    },
+    {
+      "refCode": "5513",
+      "label": "ステンレス・黒ベゼル（ノーデート等）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-4-2": [
+    {
+      "refCode": "5512",
+      "label": "ステンレス・黒ベゼル（日付あり）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    },
+    {
+      "refCode": "5513",
+      "label": "ステンレス・黒ベゼル（ノーデート等）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-5-1": [
+    {
+      "refCode": "5512",
+      "label": "ステンレス・黒ベゼル（日付あり）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    },
+    {
+      "refCode": "5513",
+      "label": "ステンレス・黒ベゼル（ノーデート等）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-5-2": [
+    {
+      "refCode": "5512",
+      "label": "ステンレス・黒ベゼル（日付あり）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    },
+    {
+      "refCode": "5513",
+      "label": "ステンレス・黒ベゼル（ノーデート等）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-6-1": [
+    {
+      "refCode": "5513",
+      "label": "ステンレス・黒ベゼル（ノーデート等）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-6-2": [
+    {
+      "refCode": "16800",
+      "label": "ステンレス・黒ベゼル・サファイア",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-7-1": [
+    {
+      "refCode": "16610",
+      "label": "ステンレス・黒ベゼル・メタルブレス",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-7-2": [
+    {
+      "refCode": "16610",
+      "label": "ステンレス・黒ベゼル・メタルブレス",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-8-1": [
+    {
+      "refCode": "16610",
+      "label": "ステンレス・黒ベゼル・メタルブレス",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          40
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-8-2": [
+    {
+      "refCode": "116610LN",
+      "label": "ステンレス・黒セラミックベゼル",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-9-1": [
+    {
+      "refCode": "116610LN",
+      "label": "ステンレス・黒セラミックベゼル",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-9-2": [
+    {
+      "refCode": "116610LN",
+      "label": "ステンレス・黒セラミックベゼル",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-submariner-9-3": [
+    {
+      "refCode": "126610LN",
+      "label": "ステンレス・黒ベゼル",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック黒"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    },
+    {
+      "refCode": "126610LV",
+      "label": "ステンレス・緑ベゼル（サブマリーナ・グリーン）",
+      "sortOrder": 2,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック緑"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-1-1": [
+    {
+      "refCode": "2915",
+      "label": "ステンレス・レザー（初代ムーンウォッチ系）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-1-2": [
+    {
+      "refCode": "2915",
+      "label": "ステンレス・レザー（初代ムーンウォッチ系）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-2-1": [
+    {
+      "refCode": "2998",
+      "label": "ステンレス・レザー（前期スピードマスター）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-2-2": [
+    {
+      "refCode": "2998",
+      "label": "ステンレス・レザー（前期スピードマスター）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-3-1": [
+    {
+      "refCode": "105.012",
+      "label": "ステンレス・レザー（NASA採用期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-3-2": [
+    {
+      "refCode": "105.012",
+      "label": "ステンレス・レザー（NASA採用期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-4-1": [
+    {
+      "refCode": "145.022",
+      "label": "ステンレス・レザー/メタル（861時代）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-4-2": [
+    {
+      "refCode": "145.022",
+      "label": "ステンレス・レザー/メタル（861時代）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-5-1": [
+    {
+      "refCode": "3590.50",
+      "label": "ステンレス・レザー/メタル（1861時代）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-5-2": [
+    {
+      "refCode": "3590.50",
+      "label": "ステンレス・レザー/メタル（1861時代）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-6-1": [
+    {
+      "refCode": "3570.50",
+      "label": "ステンレス・レザー/メタル（ムーンウォッチ定番）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-6-2": [
+    {
+      "refCode": "311.30.42.30.01.005",
+      "label": "ステンレス・レザー/メタル（現行前）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-7-1": [
+    {
+      "refCode": "310.30.42.50.01.001",
+      "label": "ステンレス・レザー/メタル（3861・現行ムーンウォッチ）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-7-2": [
+    {
+      "refCode": "310.30.42.50.01.001",
+      "label": "ステンレス・レザー/メタル（3861・現行ムーンウォッチ）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-8-1": [
+    {
+      "refCode": "310.30.42.50.01.001",
+      "label": "ステンレス・レザー/メタル（3861・現行ムーンウォッチ）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-9-1": [
+    {
+      "refCode": "310.30.42.50.01.001",
+      "label": "ステンレス・レザー/メタル（3861・現行ムーンウォッチ）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-speedmaster-9-2": [
+    {
+      "refCode": "310.30.42.50.01.001",
+      "label": "ステンレス・レザー/メタル（3861・現行ムーンウォッチ）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-7-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-9-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-9-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-carrera-9-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-7-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-9-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-9-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-monaco-9-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型タキメーター"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-2-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-4-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-autavia-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          34
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          34
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          34
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-2-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          34
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          34
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          34
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-4-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-5-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-6-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-7-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-9-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-9-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-seamaster-9-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          35
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          35
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          35
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-2-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          35
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          35
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          35
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-4-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-5-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-6-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "マンハッタン"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-7-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-9-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-9-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-constellation-9-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "半円"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          39
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-4-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          38
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-9-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-el-primero-9-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "メタル"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "メタル"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "メタル"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "メタル"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "角型"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "メタル"
+        ],
+        "sizes": [
+          37
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "オクタゴナル"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "オクタゴナル"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "オクタゴナル"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "オクタゴナル"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-defy-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "オクタゴナル"
+        ],
+        "dials": [
+          "青"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-pilot-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター / 経過時間"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          45
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール（計算尺）"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール（計算尺）"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール（計算尺）"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-2-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール（計算尺）"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール（計算尺）"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール（計算尺）"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-4-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-5-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-6-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "レザー",
+          "メタル"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-7-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-9-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-9-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-navitimer-9-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "スライドルール"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          43
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-2-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター・リューズガード"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-chronomat-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "タキメーター"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-2-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-4-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "一方向回転"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          42
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-5-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-6-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-7-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-superocean-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "セラミック一方向"
+        ],
+        "dials": [
+          "黒"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          44
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-1-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-1-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-1-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-2-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-2-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-2-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-3-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-3-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-3-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート / スムーズ"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "レザー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-4-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-4-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-4-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-5-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-5-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-5-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-6-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-6-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-6-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー"
+        ],
+        "sizes": [
+          36
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-7-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-7-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-7-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-8-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-8-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-8-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-9-1": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-9-2": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ],
+  "rel-ms-datejust-9-3": [
+    {
+      "refCode": "—",
+      "label": "代表仕様（この時期）",
+      "sortOrder": 1,
+      "variantMap": {
+        "materials": [
+          "ステンレス"
+        ],
+        "bezels": [
+          "フルート"
+        ],
+        "dials": [
+          "銀"
+        ],
+        "bracelets": [
+          "ステンレス",
+          "ジュビリー",
+          "オイスター"
+        ],
+        "sizes": [
+          41
+        ]
+      }
+    }
+  ]
+}

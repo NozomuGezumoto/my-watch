@@ -1,0 +1,11 @@
+{
+  "name": "project-watch-root",
+  "private": true,
+  "description": "Project Watch — 高級腕時計の進化体験アプリ",
+  "scripts": {
+    "dev": "npm run dev --prefix app",
+    "build": "npm run build --prefix app",
+    "preview": "npm run preview --prefix app",
+    "copy-seed": "node scripts/copy_seed_to_app.mjs"
+  }
+}

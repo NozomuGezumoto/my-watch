@@ -1,0 +1,36 @@
+{
+  "introducedYear": {
+    "carrera": 1964,
+    "monaco": 1969,
+    "autavia": 1962,
+    "speedmaster": 1957,
+    "seamaster": 1948,
+    "constellation": 1952,
+    "el-primero": 1969,
+    "defy": 1969,
+    "pilot": 2012,
+    "navitimer": 1952,
+    "chronomat": 1984,
+    "superocean": 1957,
+    "daytona": 1963,
+    "submariner": 1953,
+    "datejust": 1945
+  },
+  "type": {
+    "carrera": "chronograph",
+    "monaco": "chronograph",
+    "autavia": "chronograph",
+    "speedmaster": "chronograph",
+    "seamaster": "diving",
+    "constellation": "dress",
+    "el-primero": "chronograph",
+    "defy": "sport",
+    "pilot": "pilot",
+    "navitimer": "chronograph",
+    "chronomat": "chronograph",
+    "superocean": "diving",
+    "daytona": "chronograph",
+    "submariner": "diving",
+    "datejust": "dress"
+  }
+}
